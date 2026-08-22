@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 21872392,
                 "language": "Python",
-                "last_commit": "2026-08-11T21:49:59Z",
+                "last_commit": "2026-08-21T10:11:51Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74088
+                "stars": 74103
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2022-11-27T13:18:32Z",
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39545
+                "stars": 39548
               }
             }
           ],
@@ -54,7 +54,7 @@
                 "last_commit": "2024-05-17T14:24:27Z",
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23506
+                "stars": 23510
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2023-08-15T10:52:15Z",
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11183
+                "stars": 11184
               }
             }
           ],
@@ -302,10 +302,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-20T21:31:44Z",
+                "last_commit": "2026-08-21T16:27:30Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77647
+                "stars": 77648
               }
             },
             {
@@ -490,7 +490,7 @@
                 "last_commit": "2026-04-16T12:24:54Z",
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26799
+                "stars": 26800
               }
             },
             {
@@ -505,7 +505,7 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18413
+                "stars": 18414
               }
             },
             {
@@ -517,10 +517,10 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-20T22:13:21Z",
+                "last_commit": "2026-08-21T14:57:51Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14307
+                "stars": 14312
               }
             },
             {
@@ -550,7 +550,7 @@
                 "last_commit": "2023-04-04T21:17:55Z",
                 "owner": "lgsvl",
                 "repo": "simulator",
-                "stars": 2455
+                "stars": 2456
               }
             },
             {
@@ -584,10 +584,10 @@
                 "archived": false,
                 "id": 74627617,
                 "language": "Python",
-                "last_commit": "2026-08-20T23:57:11Z",
+                "last_commit": "2026-08-22T01:38:28Z",
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63461
+                "stars": 63468
               }
             },
             {
@@ -599,10 +599,10 @@
                 "archived": false,
                 "id": 41331761,
                 "language": "Dockerfile",
-                "last_commit": "2026-08-18T14:47:48Z",
+                "last_commit": "2026-08-21T13:40:29Z",
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12002
+                "stars": 12005
               }
             }
           ],
@@ -718,7 +718,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:08:34.521Z",
+    "last_updated": "2026-08-22T04:04:17.099Z",
     "original_repository": "DeepTecher/awesome-autonomous-vehicle",
     "original_repository_id": 176900124,
     "original_repository_sha": "67e1d837d0277ffbaadb28867f19e58bdb4f0ff2",
