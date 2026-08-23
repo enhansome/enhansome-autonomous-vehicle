@@ -1,7 +1,7 @@
 # Awesome Autonomous Vehicles: with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,692 | 🐛 105 | 📅 2026-08-21
-精选无人驾驶资源列表，修改自[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) ⭐ 2,390 | 🐛 2 | 📅 2024-03-15 :fire:.
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,025 | 🐛 106 | 📅 2026-08-21
+精选无人驾驶资源列表，修改自[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) ⭐ 2,389 | 🐛 2 | 📅 2024-03-15 :fire:.
 
 > 除此之外，将继续跟随最新资源
 
@@ -28,18 +28,18 @@
 
 ### 人工智能|Artificial Intelligence
 
-* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,103 | 🐛 26 | 🌐 Python | 📅 2026-08-21 :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
-* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,548 | 🐛 91 | 🌐 Python | 📅 2022-11-27 :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
+* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,121 | 🐛 26 | 🌐 Python | 📅 2026-08-21 :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
+* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,549 | 🐛 91 | 🌐 Python | 📅 2022-11-27 :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
 * [Web: Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum)  - `深度学习课程`旨在成为每个有兴趣认真学习该领域的人的起点。
 
 ### 机器人学|Robotics
 
-* [GitHub: Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 6,972 | 🐛 37 | 📅 2024-09-22 :star:1.19K - 由kiloreux维护的机器人技术的各种书籍，课程和其他资源的列表。
+* [GitHub: Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 6,975 | 🐛 37 | 📅 2024-09-22 :star:1.19K - 由kiloreux维护的机器人技术的各种书籍，课程和其他资源的列表。
 
 ### 计算机视觉|Computer Vision
 
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,510 | 🐛 91 | 📅 2024-05-17 :star: 9.7K (4年前更新)- 计算机视觉资源精选清单
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,184 | 🐛 47 | 📅 2023-08-15 :star:7.9K(2年前更新) - 计算机视觉深度学习资源的精选清单
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,511 | 🐛 91 | 📅 2024-05-17 :star: 9.7K (4年前更新)- 计算机视觉资源精选清单
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15 :star:7.9K(2年前更新) - 计算机视觉深度学习资源的精选清单
 
 ## 课程
 
@@ -322,7 +322,7 @@
 
 ### 决策系统|Decision Making
 
-* \[非官方][marsauto/europilot](https://github.com/marsauto/europilot) ⭐ 1,513 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2020-10-25和\[非官方][SullyChen/Autopilot-TensorFlow](https://github.com/SullyChen/Autopilot-TensorFlow) ⭐ 1,277 | 🐛 19 | 🌐 Python | 📅 2024-06-16\
+* \[非官方][marsauto/europilot](https://github.com/marsauto/europilot) ⭐ 1,512 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2020-10-25和\[非官方][SullyChen/Autopilot-TensorFlow](https://github.com/SullyChen/Autopilot-TensorFlow) ⭐ 1,276 | 🐛 19 | 🌐 Python | 📅 2024-06-16\
   研究机构 : 英伟达\
   论文 : [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
 * [xinleipan/VirtualtoReal-RL](https://github.com/xinleipan/VirtualtoReal-RL) ⭐ 48 | 🐛 2 | 🌐 C++ | 📅 2018-11-28 -在虚拟环境通过强化学习来训练无人驾驶\
@@ -331,7 +331,7 @@
 
 ### 运动规划|Motion Planer
 
-* \[非官方][Iftimie/ChauffeurNet](https://github.com/Iftimie/ChauffeurNet) ⭐ 134 | 🐛 6 | 🌐 Python | 📅 2020-03-09 -  Waymo出品，通过模仿学习对无人车进行运动规划，全文中文翻译:[知乎|每周一篇 & 无人驾驶](https://zhuanlan.zhihu.com/p/57275593)\
+* \[非官方][Iftimie/ChauffeurNet](https://github.com/Iftimie/ChauffeurNet) ⭐ 133 | 🐛 6 | 🌐 Python | 📅 2020-03-09 -  Waymo出品，通过模仿学习对无人车进行运动规划，全文中文翻译:[知乎|每周一篇 & 无人驾驶](https://zhuanlan.zhihu.com/p/57275593)\
   研究机构 : Waymo Research\
   论文 : [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/abs/1812.03079),
 
@@ -339,9 +339,9 @@
 
 ### 仿真平台
 
-* [百度 Apollo|开源](https://github.com/ApolloAuto/apollo) ⭐ 26,800 | 🐛 1,045 | 🌐 C++ | 📅 2026-04-16 - 帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
-* [微软 Airsim|开源](https://github.com/Microsoft/AirSim) ⭐ 18,414 | 🐛 780 | 🌐 C++ | 📅 2026-06-30 - 作为人工智能研究的平台，以实验自动驾驶汽车的深度学习，计算机视觉和强化学习算法。
-* [英特尔Carla|开源](https://github.com/carla-simulator/carla) ⭐ 14,312 | 🐛 1,193 | 🌐 C++ | 📅 2026-08-21  - 用于城市自动驾驶系统的开发、训练和验证的开源模拟器，支持多种传感模式和环境条件的灵活配置
+* [百度 Apollo|开源](https://github.com/ApolloAuto/apollo) ⭐ 26,801 | 🐛 1,045 | 🌐 C++ | 📅 2026-04-16 - 帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
+* [微软 Airsim|开源](https://github.com/Microsoft/AirSim) ⭐ 18,417 | 🐛 780 | 🌐 C++ | 📅 2026-06-30 - 作为人工智能研究的平台，以实验自动驾驶汽车的深度学习，计算机视觉和强化学习算法。
+* [英特尔Carla|开源](https://github.com/carla-simulator/carla) ⭐ 14,314 | 🐛 1,193 | 🌐 C++ | 📅 2026-08-21  - 用于城市自动驾驶系统的开发、训练和验证的开源模拟器，支持多种传感模式和环境条件的灵活配置
 * [优达 self-driving car|开源](https://github.com/udacity/self-driving-car) ⚠️ Archived -用于纳米课程学习
 * [LG LGSVL|开源](https://github.com/lgsvl/simulator) ⭐ 2,456 | 🐛 628 | 🌐 C# | 📅 2023-04-04 - 帮助开发者集中测试无人驾驶算法，目前平台已经集成了Duckietown, Autoware软件和百度Apollo平台。
 * [BARK](https://github.com/bark-simulator/bark) ⭐ 307 | 🐛 16 | 🌐 C++ | 📅 2024-02-06 - 用于自动驾驶行为规划算法的开发、模拟和基准测试的开源框架
@@ -350,14 +350,14 @@
 
 ### 软件
 
-* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot) ⭐ 63,468 | 🐛 125 | 🌐 Python | 📅 2026-08-22  - 开源驱动代理。
+* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot) ⭐ 63,476 | 🐛 128 | 🌐 Python | 📅 2026-08-22  - 开源驱动代理。
 * [Autoware|开源](https://github.com/CPFL/Autoware) ⭐ 12,005 | 🐛 74 | 🌐 Dockerfile | 📅 2026-08-21  - 用于城市自动驾驶的集成开源软件。
 
 ### 可视化工具
 
 * [通用Cruise WorldView|开源](https://github.com/cruise-automation/webviz) ⭐ 2,327 | 🐛 134 | 🌐 JavaScript | 📅 2022-12-17 -开放可视化组件便于开发者进行无人驾驶数据可视化处理。
 * [优步ATG AVS|开源](https://avs.auto/#/) - 其主要包括两个repo: [xviz](https://github.com/uber/xviz) ⭐ 1,076 | 🐛 171 | 🌐 JavaScript | 📅 2024-07-05处理数据
-  和 [streetscape.gl](https://github.com/uber/streetscape.gl) ⭐ 995 | 🐛 114 | 🌐 JavaScript | 📅 2024-07-04进行场景渲染。
+  和 [streetscape.gl](https://github.com/uber/streetscape.gl) ⭐ 994 | 🐛 114 | 🌐 JavaScript | 📅 2024-07-04进行场景渲染。
 
 ### 其他
 
@@ -369,7 +369,7 @@
 
 ## 小游戏
 
-* [NeuroJS](https://github.com/janhuenermann/neurojs) ⭐ 4,372 | 🐛 6 | 🌐 JavaScript | 📅 2023-10-10  - javascript深度学习和强化学习库。 一个样本自动驾驶汽车实施。
+* [NeuroJS](https://github.com/janhuenermann/neurojs) ⭐ 4,371 | 🐛 6 | 🌐 JavaScript | 📅 2023-10-10  - javascript深度学习和强化学习库。 一个样本自动驾驶汽车实施。
 * [DeepTraffic](https://github.com/lexfridman/deeptraffic) ⭐ 1,793 | 🐛 9 | 🌐 JavaScript | 📅 2023-08-01 - 作为MIT深度学习课程的一部分, 作为认知深度强化学习小游戏。仅需通过浏览器设置参数就可以进行训练和评估。
 * [TensorKart](https://github.com/kevinhughes27/TensorKart) ⭐ 1,575 | 🐛 13 | 🌐 Python | 📅 2026-08-03  - 使用TensorFlow搭建的自驾驾驶MarioKart。
 * [Metacar](https://github.com/thibo73800/metacar) ⭐ 377 | 🐛 10 | 🌐 TypeScript | 📅 2020-05-14 - 仅需通过浏览器就可以进行训练，为自动驾驶汽车提供强化学习环境。
@@ -453,4 +453,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
