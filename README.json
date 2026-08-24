@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T10:11:51Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74121
+                "stars": 74131
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2022-11-27T13:18:32Z",
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39549
+                "stars": 39550
               }
             }
           ],
@@ -54,7 +54,7 @@
                 "last_commit": "2024-05-17T14:24:27Z",
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23511
+                "stars": 23512
               }
             },
             {
@@ -490,7 +490,7 @@
                 "last_commit": "2026-04-16T12:24:54Z",
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26801
+                "stars": 26803
               }
             },
             {
@@ -505,7 +505,7 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18417
+                "stars": 18418
               }
             },
             {
@@ -517,10 +517,10 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-21T14:57:51Z",
+                "last_commit": "2026-08-24T03:58:10Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14314
+                "stars": 14318
               }
             },
             {
@@ -584,10 +584,10 @@
                 "archived": false,
                 "id": 74627617,
                 "language": "Python",
-                "last_commit": "2026-08-22T09:10:32Z",
+                "last_commit": "2026-08-23T09:10:33Z",
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63476
+                "stars": 63479
               }
             },
             {
@@ -602,7 +602,7 @@
                 "last_commit": "2026-08-21T13:40:29Z",
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12005
+                "stars": 12007
               }
             }
           ],
@@ -718,7 +718,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:08:22.936Z",
+    "last_updated": "2026-08-24T04:13:20.672Z",
     "original_repository": "DeepTecher/awesome-autonomous-vehicle",
     "original_repository_id": 176900124,
     "original_repository_sha": "67e1d837d0277ffbaadb28867f19e58bdb4f0ff2",
