@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T10:11:51Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74131
+                "stars": 74141
               }
             },
             {
@@ -32,13 +32,35 @@
                 "last_commit": "2022-11-27T13:18:32Z",
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39550
+                "stars": 39549
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "人工智能|Artificial Intelligence"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub: Awesome Robotics",
+              "description": "star:1.19K - 由kiloreux维护的机器人技术的各种书籍，课程和其他资源的列表。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46938122,
+                "language": null,
+                "last_commit": "2024-09-22T20:24:10Z",
+                "owner": "kiloreux",
+                "repo": "awesome-robotics",
+                "stars": 6978
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "机器人学|Robotics"
         },
         {
           "children": [
@@ -54,7 +76,7 @@
                 "last_commit": "2024-05-17T14:24:27Z",
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23512
+                "stars": 23517
               }
             },
             {
@@ -69,7 +91,7 @@
                 "last_commit": "2023-08-15T10:52:15Z",
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11185
+                "stars": 11186
               }
             }
           ],
@@ -148,7 +170,7 @@
                 "last_commit": "2023-11-30T03:26:15Z",
                 "owner": "charlesq34",
                 "repo": "pointnet",
-                "stars": 5455
+                "stars": 5457
               }
             },
             {
@@ -163,7 +185,7 @@
                 "last_commit": "2023-11-30T03:26:15Z",
                 "owner": "charlesq34",
                 "repo": "pointnet",
-                "stars": 5455
+                "stars": 5457
               }
             },
             {
@@ -437,6 +459,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "HKUST-Aerial-Robotics/VINS-Mono",
+              "description": "SOTA，IROS 2018,IMU和（单目）摄像头融合的校正方法，用来校准IMU和相机之间的时间偏移。研究机构 : 港科大Aerial Robotics Group论文 : Online Temporal Calibration for Monocular Visual-Inertial Systems,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91875325,
+                "language": "C++",
+                "last_commit": "2024-08-14T17:28:14Z",
+                "owner": "HKUST-Aerial-Robotics",
+                "repo": "VINS-Mono",
+                "stars": 6008
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "传感器融合|Sensor Fusion"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "[非官方]marsauto/europilot",
               "description": "和[非官方]SullyChen/Autopilot-TensorFlow研究机构 : 英伟达论文 : End to End Learning for Self-Driving Cars",
               "children": [],
@@ -447,7 +491,7 @@
                 "last_commit": "2020-10-25T11:19:26Z",
                 "owner": "marsauto",
                 "repo": "europilot",
-                "stars": 1512
+                "stars": 1511
               }
             },
             {
@@ -469,6 +513,28 @@
           "description": null,
           "node_type": "group",
           "title": "决策系统|Decision Making"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[非官方]Iftimie/ChauffeurNet",
+              "description": "Waymo出品，通过模仿学习对无人车进行运动规划，全文中文翻译:知乎|每周一篇 & 无人驾驶研究机构 : Waymo Research论文 : ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161951830,
+                "language": "Python",
+                "last_commit": "2020-03-09T17:21:22Z",
+                "owner": "Iftimie",
+                "repo": "ChauffeurNet",
+                "stars": 133
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "运动规划|Motion Planer"
         }
       ],
       "title": "SOTA代码"
@@ -517,10 +583,10 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-24T03:58:10Z",
+                "last_commit": "2026-08-24T13:49:39Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14318
+                "stars": 14317
               }
             },
             {
@@ -584,10 +650,10 @@
                 "archived": false,
                 "id": 74627617,
                 "language": "Python",
-                "last_commit": "2026-08-23T09:10:33Z",
+                "last_commit": "2026-08-24T09:18:41Z",
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63479
+                "stars": 63481
               }
             },
             {
@@ -599,7 +665,7 @@
                 "archived": false,
                 "id": 41331761,
                 "language": "Dockerfile",
-                "last_commit": "2026-08-21T13:40:29Z",
+                "last_commit": "2026-08-24T08:19:48Z",
                 "owner": "autowarefoundation",
                 "repo": "autoware",
                 "stars": 12007
@@ -646,6 +712,28 @@
           "description": null,
           "node_type": "group",
           "title": "可视化工具"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GTA Robotics SDC Environment",
+              "description": "为Udacity无人驾驶车（SDC）挑战做好准备的开发环境。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76124645,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-02-19T08:49:43Z",
+                "owner": "OSSDC",
+                "repo": "self-driving-car-1",
+                "stars": 62
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "其他"
         }
       ],
       "title": "软件"
@@ -718,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:13:20.672Z",
+    "last_updated": "2026-08-24T14:15:05.761Z",
     "original_repository": "DeepTecher/awesome-autonomous-vehicle",
     "original_repository_id": 176900124,
     "original_repository_sha": "67e1d837d0277ffbaadb28867f19e58bdb4f0ff2",
