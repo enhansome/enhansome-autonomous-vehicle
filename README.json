@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 21872392,
                 "language": "Python",
-                "last_commit": "2026-08-21T10:11:51Z",
+                "last_commit": "2026-08-24T19:57:48Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74141
+                "stars": 74147
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2022-11-27T13:18:32Z",
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39549
+                "stars": 39546
               }
             }
           ],
@@ -583,10 +583,10 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:49:39Z",
+                "last_commit": "2026-08-24T22:03:42Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14317
+                "stars": 14319
               }
             },
             {
@@ -650,10 +650,10 @@
                 "archived": false,
                 "id": 74627617,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:18:41Z",
+                "last_commit": "2026-08-25T02:49:27Z",
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63481
+                "stars": 63484
               }
             },
             {
@@ -668,7 +668,7 @@
                 "last_commit": "2026-08-24T08:19:48Z",
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12007
+                "stars": 12008
               }
             }
           ],
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:15:05.761Z",
+    "last_updated": "2026-08-25T04:07:37.259Z",
     "original_repository": "DeepTecher/awesome-autonomous-vehicle",
     "original_repository_id": 176900124,
     "original_repository_sha": "67e1d837d0277ffbaadb28867f19e58bdb4f0ff2",
