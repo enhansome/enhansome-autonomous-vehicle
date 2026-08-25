@@ -1,6 +1,6 @@
 # Awesome Autonomous Vehicles: with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,671 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,702 | 🐛 106 | 📅 2026-08-21
 精选无人驾驶资源列表，修改自[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) ⭐ 2,388 | 🐛 2 | 📅 2024-03-15 :fire:.
 
 > 除此之外，将继续跟随最新资源
@@ -28,8 +28,8 @@
 
 ### 人工智能|Artificial Intelligence
 
-* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,147 | 🐛 26 | 🌐 Python | 📅 2026-08-24 :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
-* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,546 | 🐛 91 | 🌐 Python | 📅 2022-11-27 :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
+* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,148 | 🐛 26 | 🌐 Python | 📅 2026-08-24 :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
+* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,547 | 🐛 91 | 🌐 Python | 📅 2022-11-27 :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
 * [Web: Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum)  - `深度学习课程`旨在成为每个有兴趣认真学习该领域的人的起点。
 
 ### 机器人学|Robotics
@@ -350,7 +350,7 @@
 
 ### 软件
 
-* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot) ⭐ 63,484 | 🐛 132 | 🌐 Python | 📅 2026-08-25  - 开源驱动代理。
+* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot) ⭐ 63,485 | 🐛 132 | 🌐 Python | 📅 2026-08-25  - 开源驱动代理。
 * [Autoware|开源](https://github.com/CPFL/Autoware) ⭐ 12,008 | 🐛 73 | 🌐 Dockerfile | 📅 2026-08-24  - 用于城市自动驾驶的集成开源软件。
 
 ### 可视化工具

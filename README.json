@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T19:57:48Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74147
+                "stars": 74148
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2022-11-27T13:18:32Z",
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39546
+                "stars": 39547
               }
             }
           ],
@@ -650,10 +650,10 @@
                 "archived": false,
                 "id": 74627617,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:49:27Z",
+                "last_commit": "2026-08-25T04:20:25Z",
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63484
+                "stars": 63485
               }
             },
             {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:07:37.259Z",
+    "last_updated": "2026-08-25T06:12:56.524Z",
     "original_repository": "DeepTecher/awesome-autonomous-vehicle",
     "original_repository_id": 176900124,
     "original_repository_sha": "67e1d837d0277ffbaadb28867f19e58bdb4f0ff2",
