@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-26T21:09:24Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74176
+                "stars": 74177
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2022-11-27T13:18:32Z",
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39548
+                "stars": 39549
               }
             }
           ],
@@ -586,7 +586,7 @@
                 "last_commit": "2026-08-27T09:24:03Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14328
+                "stars": 14329
               }
             },
             {
@@ -650,7 +650,7 @@
                 "archived": false,
                 "id": 74627617,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:43:38Z",
+                "last_commit": "2026-08-27T12:43:52Z",
                 "owner": "commaai",
                 "repo": "openpilot",
                 "stars": 63521
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:24:46.797Z",
+    "last_updated": "2026-08-27T14:25:16.684Z",
     "original_repository_info": {
       "archived": false,
       "id": 176900124,
