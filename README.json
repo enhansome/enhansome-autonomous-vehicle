@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 21872392,
                 "language": "Python",
-                "last_commit": "2026-08-24T19:57:48Z",
+                "last_commit": "2026-08-26T21:09:24Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74156
+                "stars": 74176
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2022-11-27T13:18:32Z",
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39546
+                "stars": 39548
               }
             }
           ],
@@ -54,7 +54,7 @@
                 "last_commit": "2024-09-22T20:24:10Z",
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 6981
+                "stars": 6983
               }
             }
           ],
@@ -76,7 +76,7 @@
                 "last_commit": "2024-05-17T14:24:27Z",
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23517
+                "stars": 23520
               }
             },
             {
@@ -91,7 +91,7 @@
                 "last_commit": "2023-08-15T10:52:15Z",
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11185
+                "stars": 11186
               }
             }
           ],
@@ -170,7 +170,7 @@
                 "last_commit": "2023-11-30T03:26:15Z",
                 "owner": "charlesq34",
                 "repo": "pointnet",
-                "stars": 5457
+                "stars": 5460
               }
             },
             {
@@ -185,7 +185,7 @@
                 "last_commit": "2023-11-30T03:26:15Z",
                 "owner": "charlesq34",
                 "repo": "pointnet",
-                "stars": 5457
+                "stars": 5460
               }
             },
             {
@@ -275,7 +275,7 @@
                 "last_commit": "2020-02-16T15:33:26Z",
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "Stereo-RCNN",
-                "stars": 710
+                "stars": 711
               }
             },
             {
@@ -324,10 +324,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77651
+                "stars": 77653
               }
             },
             {
@@ -469,7 +469,7 @@
                 "last_commit": "2024-08-14T17:28:14Z",
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "VINS-Mono",
-                "stars": 6011
+                "stars": 6012
               }
             }
           ],
@@ -556,7 +556,7 @@
                 "last_commit": "2026-04-16T12:24:54Z",
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26805
+                "stars": 26807
               }
             },
             {
@@ -571,7 +571,7 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18422
+                "stars": 18425
               }
             },
             {
@@ -583,10 +583,10 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-25T17:53:51Z",
+                "last_commit": "2026-08-27T09:24:03Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14325
+                "stars": 14328
               }
             },
             {
@@ -650,10 +650,10 @@
                 "archived": false,
                 "id": 74627617,
                 "language": "Python",
-                "last_commit": "2026-08-26T03:18:28Z",
+                "last_commit": "2026-08-27T03:43:38Z",
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63497
+                "stars": 63521
               }
             },
             {
@@ -668,7 +668,7 @@
                 "last_commit": "2026-08-24T08:19:48Z",
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12013
+                "stars": 12017
               }
             }
           ],
@@ -690,7 +690,7 @@
                 "last_commit": "2022-12-17T00:27:21Z",
                 "owner": "cruise-automation",
                 "repo": "webviz",
-                "stars": 2328
+                "stars": 2329
               }
             },
             {
@@ -806,9 +806,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:09:19.423Z",
-    "original_repository": "DeepTecher/awesome-autonomous-vehicle",
-    "original_repository_id": 176900124,
+    "last_updated": "2026-08-27T11:24:46.797Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 176900124,
+      "language": null,
+      "last_commit": "2021-10-04T13:47:16Z",
+      "owner": "DeepTecher",
+      "repo": "awesome-autonomous-vehicle",
+      "stars": 907
+    },
     "original_repository_sha": "67e1d837d0277ffbaadb28867f19e58bdb4f0ff2",
     "enhanced_repository": "enhansome/enhansome-autonomous-vehicle",
     "enhanced_repository_description": null,
