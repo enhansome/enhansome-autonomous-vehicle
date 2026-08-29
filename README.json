@@ -21,7 +21,7 @@
                 "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74202,
+                "stars": 74203,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -42,7 +42,7 @@
                 "open_issues": 91,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39553,
+                "stars": 39554,
                 "topics": [
                   "deep-learning"
                 ]
@@ -72,7 +72,7 @@
                 "open_issues": 38,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 6986,
+                "stars": 6988,
                 "topics": [
                   "robotics"
                 ]
@@ -155,7 +155,7 @@
             "open_issues": 1,
             "owner": "udacity",
             "repo": "self-driving-car",
-            "stars": 6315,
+            "stars": 6314,
             "topics": []
           },
           "first_seen": "2026-08-28T15:33:30.949Z"
@@ -420,7 +420,7 @@
                 "open_issues": 25,
                 "owner": "AI-liu",
                 "repo": "Complex-YOLO",
-                "stars": 453,
+                "stars": 452,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -558,7 +558,7 @@
                 "open_issues": 43,
                 "owner": "BichenWuUCB",
                 "repo": "SqueezeSeg",
-                "stars": 575,
+                "stars": 574,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-neural-networks",
@@ -836,7 +836,7 @@
                 "open_issues": 780,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18427,
+                "stars": 18426,
                 "topics": [
                   "ai",
                   "airsim",
@@ -871,7 +871,7 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-28T12:56:49Z",
+                "last_commit": "2026-08-29T08:25:27Z",
                 "open_issues": 1195,
                 "owner": "carla-simulator",
                 "repo": "carla",
@@ -914,7 +914,7 @@
                 "open_issues": 1,
                 "owner": "udacity",
                 "repo": "self-driving-car",
-                "stars": 6315,
+                "stars": 6314,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -1018,7 +1018,7 @@
                 "id": 74627617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T03:09:03Z",
+                "last_commit": "2026-08-29T09:06:38Z",
                 "open_issues": 130,
                 "owner": "commaai",
                 "repo": "openpilot",
@@ -1047,7 +1047,7 @@
                 "open_issues": 72,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12029,
+                "stars": 12030,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -1266,7 +1266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:35:23.779Z",
+    "last_updated": "2026-08-29T10:17:58.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "无人驾驶的资源列表中文版",
