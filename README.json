@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+                "homepage": null,
                 "id": 21872392,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:29:10Z",
+                "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74195
+                "stars": 74202,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -28,12 +33,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+                "homepage": null,
                 "id": 70905478,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-27T13:18:32Z",
+                "open_issues": 91,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39551
+                "stars": 39553,
+                "topics": [
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             }
@@ -51,12 +63,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of awesome Robotics resources",
+                "homepage": null,
                 "id": 46938122,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-22T20:24:10Z",
+                "open_issues": 38,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 6985
+                "stars": 6986,
+                "topics": [
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             }
@@ -74,12 +93,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome computer vision resources",
+                "homepage": null,
                 "id": 29357796,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-05-17T14:24:27Z",
+                "open_issues": 92,
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23520
+                "stars": 23520,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -90,12 +114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of deep learning resources for computer vision ",
+                "homepage": null,
                 "id": 35812923,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-08-15T10:52:15Z",
+                "open_issues": 47,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11186
+                "stars": 11186,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             }
@@ -117,12 +146,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Udacity open source self-driving car project",
+            "homepage": "https://udacity.com/self-driving-car",
             "id": 69775530,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-25T10:41:52Z",
+            "open_issues": 1,
             "owner": "udacity",
             "repo": "self-driving-car",
-            "stars": 6315
+            "stars": 6315,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:33:30.949Z"
         },
@@ -133,12 +167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The devkit of the nuScenes dataset.",
+            "homepage": "https://www.nuScenes.org",
             "id": 147720534,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-06T02:06:21Z",
+            "open_issues": 32,
             "owner": "nutonomy",
             "repo": "nuscenes-devkit",
-            "stars": 2796
+            "stars": 2796,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:33:30.949Z"
         },
@@ -149,12 +188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "利用MIT 6.S094 这门公开课中的Tesla数据集训练深度学习模型，根据车辆的前置相机所拍摄的路况图像，实现对车辆转向角度的预测。",
+            "homepage": null,
             "id": 93020961,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2017-06-01T08:02:55Z",
+            "open_issues": 1,
             "owner": "CJHMPower",
             "repo": "deep-tesla",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:33:30.949Z"
         }
@@ -173,12 +217,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation",
+                "homepage": null,
                 "id": 80492172,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-30T03:26:15Z",
+                "open_issues": 186,
                 "owner": "charlesq34",
                 "repo": "pointnet",
-                "stars": 5461
+                "stars": 5461,
+                "topics": [
+                  "classification",
+                  "geometry-processing",
+                  "neural-network",
+                  "point-cloud",
+                  "segmentation",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -189,12 +245,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation",
+                "homepage": null,
                 "id": 80492172,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-30T03:26:15Z",
+                "open_issues": 186,
                 "owner": "charlesq34",
                 "repo": "pointnet",
-                "stars": 5461
+                "stars": 5461,
+                "topics": [
+                  "classification",
+                  "geometry-processing",
+                  "neural-network",
+                  "point-cloud",
+                  "segmentation",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -205,12 +273,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Simple and Versatile Framework for Object Detection and Instance Recognition",
+                "homepage": null,
                 "id": 168118326,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-09-23T02:57:09Z",
+                "open_issues": 44,
                 "owner": "tusen-ai",
                 "repo": "simpledet",
-                "stars": 3085
+                "stars": 3085,
+                "topics": [
+                  "instance-segmentation",
+                  "mxnet",
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -221,12 +298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud, CVPR 2019.",
+                "homepage": null,
                 "id": 178868631,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-01T10:13:35Z",
+                "open_issues": 144,
                 "owner": "sshaoshuai",
                 "repo": "PointRCNN",
-                "stars": 1817
+                "stars": 1817,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -237,12 +319,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SECOND for KITTI/NuScenes object detection",
+                "homepage": null,
                 "id": 151491863,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-14T08:05:18Z",
+                "open_issues": 300,
                 "owner": "traveller59",
                 "repo": "second.pytorch",
-                "stars": 1777
+                "stars": 1777,
+                "topics": [
+                  "kitti",
+                  "nuscenes",
+                  "object-detection",
+                  "voxelnet"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -253,12 +345,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for 3D object detection for autonomous driving",
+                "homepage": null,
                 "id": 123329326,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-05T16:48:06Z",
+                "open_issues": 37,
                 "owner": "kujason",
                 "repo": "avod",
-                "stars": 958
+                "stars": 958,
+                "topics": [
+                  "deep-learning",
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -269,12 +369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tensorflow implementation for SqueezeDet, a convolutional neural network for object detection.",
+                "homepage": null,
                 "id": 76000634,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2022-11-22T01:31:13Z",
+                "open_issues": 83,
                 "owner": "BichenWuUCB",
                 "repo": "squeezeDet",
-                "stars": 741
+                "stars": 741,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -285,12 +390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for 'Stereo R-CNN based 3D Object Detection for Autonomous Driving' (CVPR 2019)",
+                "homepage": null,
                 "id": 180532590,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-02-16T15:33:26Z",
+                "open_issues": 40,
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "Stereo-RCNN",
-                "stars": 711
+                "stars": 711,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -301,12 +411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complex-YOLO: Real-time 3D Object Detection on Point Clouds   pytorch  Darknet",
+                "homepage": null,
                 "id": 143731095,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-03-21T16:10:01Z",
+                "open_issues": 25,
                 "owner": "AI-liu",
                 "repo": "Complex-YOLO",
-                "stars": 453
+                "stars": 453,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -317,12 +432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains code and trained models for our submission to the IEEE BigData Cup 2018 and the related paper 'Road Damage Detection And Classification In Smartphone Captured Images Using Mask R-CNN'",
+                "homepage": null,
                 "id": 156967653,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-01-10T15:26:24Z",
+                "open_issues": 1,
                 "owner": "sshkhr",
                 "repo": "BigDataCup18_Submission",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             }
@@ -340,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Models and examples built with TensorFlow",
+                "homepage": null,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:33:46Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T18:30:48Z",
+                "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659
+                "stars": 77658,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -356,12 +481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.",
+                "homepage": null,
                 "id": 165027131,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-03-11T09:55:12Z",
+                "open_issues": 41,
                 "owner": "yu-changqian",
                 "repo": "TorchSeg",
-                "stars": 1410
+                "stars": 1410,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -372,12 +502,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the Lovász-Softmax loss (CVPR 2018)",
+                "homepage": "http://bmax.im/LovaszSoftmax",
                 "id": 122314187,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-04-12T21:01:35Z",
+                "open_issues": 18,
                 "owner": "bermanmaxim",
                 "repo": "LovaszSoftmax",
-                "stars": 1410
+                "stars": 1410,
+                "topics": [
+                  "image-segmentation",
+                  "loss-functions",
+                  "neural-networks",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -388,12 +528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RTSeg: Real-time Semantic Segmentation Comparative Study ",
+                "homepage": null,
                 "id": 98748253,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-22T01:54:43Z",
+                "open_issues": 22,
                 "owner": "MSiam",
                 "repo": "TFSegmentation",
-                "stars": 592
+                "stars": 592,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -404,12 +549,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of SqueezeSeg, convolutional neural networks for LiDAR point clout segmentation",
+                "homepage": null,
                 "id": 113373152,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2019-05-22T01:10:13Z",
+                "open_issues": 43,
                 "owner": "BichenWuUCB",
                 "repo": "SqueezeSeg",
-                "stars": 575
+                "stars": 575,
+                "topics": [
+                  "autonomous-vehicles",
+                  "deep-neural-networks",
+                  "lidar-point-cloud"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -420,12 +574,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time Joint Semantic Reasoning for Autonomous Driving",
+                "homepage": null,
                 "id": 66800921,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-05-17T07:35:17Z",
+                "open_issues": 33,
                 "owner": "MarvinTeichmann",
                 "repo": "MultiNet",
-                "stars": 556
+                "stars": 556,
+                "topics": [
+                  "autonomous-driving",
+                  "computer-vision",
+                  "deep-learning",
+                  "real-time",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -436,12 +601,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LEDNet: A Lightweight Encoder-Decoder Network for Real-time Semantic Segmentation  ",
+                "homepage": "https://github.com/xiaoyufenfei/LEDNet",
                 "id": 184004485,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-12-05T19:31:49Z",
+                "open_issues": 12,
                 "owner": "xiaoyufenfei",
                 "repo": "LEDNet",
-                "stars": 522
+                "stars": 522,
+                "topics": [
+                  "cityscape-dataset",
+                  "computer-vision",
+                  "lednet",
+                  "pytorch",
+                  "real-time",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -452,12 +629,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 174380350,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-10-03T21:34:04Z",
+                "open_issues": 21,
                 "owner": "orsic",
                 "repo": "swiftnet",
-                "stars": 255
+                "stars": 255,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -468,12 +650,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes, ICCV 2017",
+                "homepage": null,
                 "id": 97271873,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-16T20:30:10Z",
+                "open_issues": 15,
                 "owner": "YangZhang4065",
                 "repo": "AdaptationSeg",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "computer-vision",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "domain-adaptation",
+                  "keras",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             }
@@ -491,12 +685,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Robust and Versatile Monocular Visual-Inertial State Estimator",
+                "homepage": null,
                 "id": 91875325,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-14T17:28:14Z",
+                "open_issues": 293,
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "VINS-Mono",
-                "stars": 6013
+                "stars": 6013,
+                "topics": [
+                  "state-estimation",
+                  "vins",
+                  "vio"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             }
@@ -514,12 +717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit for controlling Euro Truck Simulator 2 with the end-to-end driving model",
+                "homepage": null,
                 "id": 96978806,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-10-25T11:19:26Z",
+                "open_issues": 5,
                 "owner": "marsauto",
                 "repo": "europilot",
-                "stars": 1511
+                "stars": 1511,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -530,12 +738,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BMVC 2017: Virtual to Real Reinforcement Learning for Autonomous Driving",
+                "homepage": null,
                 "id": 100059926,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2018-11-28T03:51:58Z",
+                "open_issues": 2,
                 "owner": "xinleipan",
                 "repo": "VirtualtoReal-RL",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             }
@@ -553,12 +766,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 161951830,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-03-09T17:21:22Z",
+                "open_issues": 6,
                 "owner": "Iftimie",
                 "repo": "ChauffeurNet",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             }
@@ -582,12 +800,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open autonomous driving platform",
+                "homepage": null,
                 "id": 96246170,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-16T12:24:54Z",
+                "open_issues": 1045,
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26807
+                "stars": 26807,
+                "topics": [
+                  "apollo",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "autonomy",
+                  "self-driving-car"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -598,12 +827,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
+                "homepage": "https://microsoft.github.io/AirSim/",
                 "id": 81887991,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-30T19:34:07Z",
+                "open_issues": 780,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18427
+                "stars": 18427,
+                "topics": [
+                  "ai",
+                  "airsim",
+                  "artificial-intelligence",
+                  "autonomous-quadcoptor",
+                  "autonomous-vehicles",
+                  "computer-vision",
+                  "control-systems",
+                  "cross-platform",
+                  "deep-reinforcement-learning",
+                  "deeplearning",
+                  "drones",
+                  "pixhawk",
+                  "platform-independent",
+                  "research",
+                  "self-driving-car",
+                  "simulator",
+                  "unreal-engine"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -614,12 +866,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source simulator for autonomous driving research.",
+                "homepage": "http://carla.org",
                 "id": 108102826,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:56:49Z",
+                "open_issues": 1195,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14334
+                "stars": 14335,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "carla",
+                  "carla-simulator",
+                  "computer-vision",
+                  "cross-platform",
+                  "deep-learning",
+                  "deep-reinforcement-learning",
+                  "imitation-learning",
+                  "research",
+                  "ros",
+                  "self-driving-car",
+                  "simulator",
+                  "ue4",
+                  "unreal-engine-4"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -630,12 +905,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Udacity open source self-driving car project",
+                "homepage": "https://udacity.com/self-driving-car",
                 "id": 69775530,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2021-11-25T10:41:52Z",
+                "open_issues": 1,
                 "owner": "udacity",
                 "repo": "self-driving-car",
-                "stars": 6315
+                "stars": 6315,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -646,12 +926,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles",
+                "homepage": null,
                 "id": 139499767,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-04T21:17:55Z",
+                "open_issues": 628,
                 "owner": "lgsvl",
                 "repo": "simulator",
-                "stars": 2458
+                "stars": 2458,
+                "topics": [
+                  "3d",
+                  "airsim",
+                  "api",
+                  "artificial-intelligence",
+                  "autonomous",
+                  "autoware",
+                  "baidu",
+                  "carla",
+                  "computer-vision",
+                  "csharp",
+                  "deep-learning",
+                  "game-engine",
+                  "machine-learning",
+                  "reinforcement-learning",
+                  "ros",
+                  "self-driving-car",
+                  "simulator",
+                  "tensorflow",
+                  "unity",
+                  "unreal-engine"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -662,12 +968,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-Source Framework for Development, Simulation and Benchmarking of Behavior Planning Algorithms for Autonomous Driving",
+                "homepage": "https://bark-simulator.github.io/",
                 "id": 179277094,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-02-06T20:43:00Z",
+                "open_issues": 16,
                 "owner": "bark-simulator",
                 "repo": "bark",
-                "stars": 307
+                "stars": 307,
+                "topics": [
+                  "artificial-intelligence",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "bark",
+                  "bark-simulator",
+                  "benchmark",
+                  "deep-reinforcement-learning",
+                  "machine-learning",
+                  "multi-agent",
+                  "reinforcement-learning",
+                  "research",
+                  "robotics",
+                  "self-driving-car",
+                  "simulation",
+                  "simulator",
+                  "verification"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             }
@@ -685,12 +1013,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+                "homepage": "https://comma.ai/openpilot",
                 "id": 74627617,
                 "language": "Python",
-                "last_commit": "2026-08-28T14:25:34Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:09:03Z",
+                "open_issues": 130,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63527
+                "stars": 63527,
+                "topics": [
+                  "advanced-driver-assistance-systems",
+                  "driver-assistance-systems",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -701,12 +1038,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autoware - the world's leading open-source software project for autonomous driving",
+                "homepage": "https://www.autoware.org/",
                 "id": 41331761,
                 "language": "Dockerfile",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T08:19:48Z",
+                "open_issues": 72,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12028
+                "stars": 12029,
+                "topics": [
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "autoware",
+                  "ros",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             }
@@ -724,12 +1072,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "web-based visualization libraries",
+                "homepage": "https://webviz.io/",
                 "id": 160963776,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-17T00:27:21Z",
+                "open_issues": 134,
                 "owner": "cruise-automation",
                 "repo": "webviz",
-                "stars": 2330
+                "stars": 2331,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -740,12 +1093,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A protocol for real-time transfer and visualization of autonomy data",
+                "homepage": "http://xviz.io",
                 "id": 140614041,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-05T18:03:23Z",
+                "open_issues": 171,
                 "owner": "aurora-opensource",
                 "repo": "xviz",
-                "stars": 1076
+                "stars": 1076,
+                "topics": [
+                  "3d",
+                  "protocol",
+                  "robotics",
+                  "self-driving-car"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             }
@@ -763,12 +1126,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self Driving Car development tools and technologies from GTA Robotics Community members",
+                "homepage": "https://meetup.com/gta-robotics",
                 "id": 76124645,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2017-02-19T08:49:43Z",
+                "open_issues": 0,
                 "owner": "OSSDC",
                 "repo": "self-driving-car-1",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             }
@@ -790,12 +1158,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript deep learning and reinforcement learning library.",
+            "homepage": "http://janhuenermann.com/projects/learning-to-drive",
             "id": 68553109,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-10T12:55:04Z",
+            "open_issues": 6,
             "owner": "janhuenermann",
             "repo": "neurojs",
-            "stars": 4371
+            "stars": 4371,
+            "topics": [
+              "deep-learning",
+              "javascript",
+              "machine-learning",
+              "neural-network",
+              "reinforcement-learning",
+              "self-driving-car"
+            ]
           },
           "first_seen": "2026-08-28T15:33:30.949Z"
         },
@@ -806,12 +1186,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.",
+            "homepage": "https://selfdrivingcars.mit.edu/deeptraffic",
             "id": 116443310,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-08-01T23:09:33Z",
+            "open_issues": 9,
             "owner": "lexfridman",
             "repo": "deeptraffic",
-            "stars": 1793
+            "stars": 1793,
+            "topics": [
+              "convnetjs",
+              "deep-learning",
+              "deep-reinforcement-learning",
+              "deep-rl",
+              "machine-learning",
+              "mit",
+              "self-driving-cars",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T15:33:30.949Z"
         },
@@ -822,12 +1216,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "self-driving MarioKart with TensorFlow",
+            "homepage": null,
             "id": 77541444,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-03T17:12:46Z",
+            "open_issues": 13,
             "owner": "kevinhughes27",
             "repo": "TensorKart",
-            "stars": 1575
+            "stars": 1575,
+            "topics": [
+              "machine-learning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T15:33:30.949Z"
         },
@@ -838,12 +1240,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reinforcement learning environment for self-driving cars in the browser.",
+            "homepage": "https://www.metacar-project.com/",
             "id": 136301857,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-05-14T17:52:22Z",
+            "open_issues": 10,
             "owner": "thibo73800",
             "repo": "metacar",
-            "stars": 377
+            "stars": 377,
+            "topics": [
+              "autonomous-vehicles",
+              "browser",
+              "pixijs",
+              "reinforcement-learning",
+              "self-driving-car",
+              "tensorflowjs"
+            ]
           },
           "first_seen": "2026-08-28T15:33:30.949Z"
         }
@@ -852,15 +1266,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:33:30.949Z",
+    "last_updated": "2026-08-29T04:35:23.779Z",
     "original_repository_info": {
       "archived": false,
+      "description": "无人驾驶的资源列表中文版",
+      "homepage": null,
       "id": 176900124,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2021-10-04T13:47:16Z",
+      "open_issues": 1,
       "owner": "DeepTecher",
       "repo": "awesome-autonomous-vehicle",
-      "stars": 907
+      "stars": 907,
+      "topics": [
+        "autonomous-vehicles",
+        "awesome-list",
+        "car-driving",
+        "computer-vision",
+        "datasets",
+        "intelligent-vehicle",
+        "self-driving-car",
+        "tutorial"
+      ]
     },
     "original_repository_sha": "67e1d837d0277ffbaadb28867f19e58bdb4f0ff2",
     "enhanced_repository": "enhansome/enhansome-autonomous-vehicle",
