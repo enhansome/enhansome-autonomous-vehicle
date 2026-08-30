@@ -1,6 +1,6 @@
 # Awesome Autonomous Vehicles: with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,958 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,271 | 🐛 105 | 📅 2026-08-21
 精选无人驾驶资源列表，修改自[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) ⭐ 2,390 | 🐛 2 | 📅 2024-03-15 :fire:.
 
 > 除此之外，将继续跟随最新资源
@@ -28,17 +28,17 @@
 
 ### 人工智能|Artificial Intelligence
 
-* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,203 | 🐛 29 | 🌐 Python | 📅 2026-08-27 :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
-* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,554 | 🐛 91 | 🌐 Python | 📅 2022-11-27 :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
+* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,213 | 🐛 30 | 🌐 Python | 📅 2026-08-27 :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
+* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,555 | 🐛 91 | 🌐 Python | 📅 2022-11-27 :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
 * [Web: Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum)  - `深度学习课程`旨在成为每个有兴趣认真学习该领域的人的起点。
 
 ### 机器人学|Robotics
 
-* [GitHub: Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 6,988 | 🐛 38 | 📅 2024-09-22 :star:1.19K - 由kiloreux维护的机器人技术的各种书籍，课程和其他资源的列表。
+* [GitHub: Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 6,989 | 🐛 38 | 📅 2024-09-22 :star:1.19K - 由kiloreux维护的机器人技术的各种书籍，课程和其他资源的列表。
 
 ### 计算机视觉|Computer Vision
 
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,520 | 🐛 92 | 📅 2024-05-17 :star: 9.7K (4年前更新)- 计算机视觉资源精选清单
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,522 | 🐛 92 | 📅 2024-05-17 :star: 9.7K (4年前更新)- 计算机视觉资源精选清单
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15 :star:7.9K(2年前更新) - 计算机视觉深度学习资源的精选清单
 
 ## 课程
@@ -283,7 +283,7 @@
 
 ### 分割|Segmentation
 
-* `PSPNet`[tensorflow/models](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,658 | 🐛 1,272 | 🌐 Python | 📅 2026-08-28和[hszhao/PSPNet](https://github.com/hszhao/PSPNet) ⭐ 1,662 | 🐛 78 | 🌐 C++ | 📅 2022-04-15 - `SOTA in (Semantic Segmentation & Real-Time Semantic Segmentation)`，[more detail](https://paperswithcode.com/paper/pyramid-scene-parsing-network),`CVPR 2017`\
+* `PSPNet`[tensorflow/models](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,660 | 🐛 1,272 | 🌐 Python | 📅 2026-08-28和[hszhao/PSPNet](https://github.com/hszhao/PSPNet) ⭐ 1,662 | 🐛 78 | 🌐 C++ | 📅 2022-04-15 - `SOTA in (Semantic Segmentation & Real-Time Semantic Segmentation)`，[more detail](https://paperswithcode.com/paper/pyramid-scene-parsing-network),`CVPR 2017`\
   研究机构 : 香港中文大学、商汤\
   论文 : [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105)
 * `BiSeNet`[ycszen/TorchSeg](https://github.com/ycszen/TorchSeg) ⭐ 1,410 | 🐛 41 | 🌐 Python | 📅 2020-03-11 -
@@ -339,9 +339,9 @@
 
 ### 仿真平台
 
-* [百度 Apollo|开源](https://github.com/ApolloAuto/apollo) ⭐ 26,807 | 🐛 1,045 | 🌐 C++ | 📅 2026-04-16 - 帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
-* [微软 Airsim|开源](https://github.com/Microsoft/AirSim) ⭐ 18,426 | 🐛 780 | 🌐 C++ | 📅 2026-06-30 - 作为人工智能研究的平台，以实验自动驾驶汽车的深度学习，计算机视觉和强化学习算法。
-* [英特尔Carla|开源](https://github.com/carla-simulator/carla) ⭐ 14,335 | 🐛 1,195 | 🌐 C++ | 📅 2026-08-29  - 用于城市自动驾驶系统的开发、训练和验证的开源模拟器，支持多种传感模式和环境条件的灵活配置
+* [百度 Apollo|开源](https://github.com/ApolloAuto/apollo) ⭐ 26,809 | 🐛 1,046 | 🌐 C++ | 📅 2026-04-16 - 帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
+* [微软 Airsim|开源](https://github.com/Microsoft/AirSim) ⭐ 18,425 | 🐛 780 | 🌐 C++ | 📅 2026-06-30 - 作为人工智能研究的平台，以实验自动驾驶汽车的深度学习，计算机视觉和强化学习算法。
+* [英特尔Carla|开源](https://github.com/carla-simulator/carla) ⭐ 14,336 | 🐛 1,196 | 🌐 C++ | 📅 2026-08-30  - 用于城市自动驾驶系统的开发、训练和验证的开源模拟器，支持多种传感模式和环境条件的灵活配置
 * [优达 self-driving car|开源](https://github.com/udacity/self-driving-car) ⚠️ Archived -用于纳米课程学习
 * [LG LGSVL|开源](https://github.com/lgsvl/simulator) ⭐ 2,458 | 🐛 628 | 🌐 C# | 📅 2023-04-04 - 帮助开发者集中测试无人驾驶算法，目前平台已经集成了Duckietown, Autoware软件和百度Apollo平台。
 * [BARK](https://github.com/bark-simulator/bark) ⭐ 307 | 🐛 16 | 🌐 C++ | 📅 2024-02-06 - 用于自动驾驶行为规划算法的开发、模拟和基准测试的开源框架
@@ -350,13 +350,13 @@
 
 ### 软件
 
-* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot) ⭐ 63,527 | 🐛 130 | 🌐 Python | 📅 2026-08-29  - 开源驱动代理。
-* [Autoware|开源](https://github.com/CPFL/Autoware) ⭐ 12,030 | 🐛 72 | 🌐 Dockerfile | 📅 2026-08-24  - 用于城市自动驾驶的集成开源软件。
+* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot) ⭐ 63,532 | 🐛 135 | 🌐 Python | 📅 2026-08-30  - 开源驱动代理。
+* [Autoware|开源](https://github.com/CPFL/Autoware) ⭐ 12,032 | 🐛 72 | 🌐 Dockerfile | 📅 2026-08-24  - 用于城市自动驾驶的集成开源软件。
 
 ### 可视化工具
 
-* [通用Cruise WorldView|开源](https://github.com/cruise-automation/webviz) ⭐ 2,331 | 🐛 134 | 🌐 JavaScript | 📅 2022-12-17 -开放可视化组件便于开发者进行无人驾驶数据可视化处理。
-* [优步ATG AVS|开源](https://avs.auto/#/) - 其主要包括两个repo: [xviz](https://github.com/uber/xviz) ⭐ 1,076 | 🐛 171 | 🌐 JavaScript | 📅 2024-07-05处理数据
+* [通用Cruise WorldView|开源](https://github.com/cruise-automation/webviz) ⭐ 2,335 | 🐛 134 | 🌐 JavaScript | 📅 2022-12-17 -开放可视化组件便于开发者进行无人驾驶数据可视化处理。
+* [优步ATG AVS|开源](https://avs.auto/#/) - 其主要包括两个repo: [xviz](https://github.com/uber/xviz) ⭐ 1,075 | 🐛 171 | 🌐 JavaScript | 📅 2024-07-05处理数据
   和 [streetscape.gl](https://github.com/uber/streetscape.gl) ⭐ 994 | 🐛 114 | 🌐 JavaScript | 📅 2024-07-04进行场景渲染。
 
 ### 其他
@@ -453,4 +453,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
