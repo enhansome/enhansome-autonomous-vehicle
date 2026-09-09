@@ -17,11 +17,11 @@
                 "id": 21872392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T19:29:21Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-08T17:30:34Z",
+                "open_issues": 34,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74276,
+                "stars": 74286,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -42,7 +42,7 @@
                 "open_issues": 91,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39556,
+                "stars": 39555,
                 "topics": [
                   "deep-learning"
                 ]
@@ -72,7 +72,7 @@
                 "open_issues": 40,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 7023,
+                "stars": 7027,
                 "topics": [
                   "robotics"
                 ]
@@ -102,7 +102,7 @@
                 "open_issues": 92,
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23546,
+                "stars": 23545,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -307,7 +307,7 @@
                 "open_issues": 144,
                 "owner": "sshaoshuai",
                 "repo": "PointRCNN",
-                "stars": 1817,
+                "stars": 1816,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -328,7 +328,7 @@
                 "open_issues": 300,
                 "owner": "traveller59",
                 "repo": "second.pytorch",
-                "stars": 1778,
+                "stars": 1777,
                 "topics": [
                   "kitti",
                   "nuscenes",
@@ -465,32 +465,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T00:14:58Z",
-                "open_issues": 1272,
+                "last_commit": "2026-09-09T03:15:30Z",
+                "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77660,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T15:33:30.949Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ycszen/TorchSeg",
-              "description": "Cityscapes：#2，Real-time（）;#8 ()、CamVid：#2，Mean IoU 68.7%;ECCV 2018研究机构 : 多谱信息处理技术国家级重点实验室、华中科技大学自动化学院、北大、旷视论文 : BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.",
-                "homepage": null,
-                "id": 165027131,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2020-03-11T09:55:12Z",
-                "open_issues": 41,
-                "owner": "yu-changqian",
-                "repo": "TorchSeg",
-                "stars": 1410,
+                "stars": 77657,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -518,6 +497,27 @@
                   "neural-networks",
                   "pytorch"
                 ]
+              },
+              "first_seen": "2026-08-28T15:33:30.949Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ycszen/TorchSeg",
+              "description": "Cityscapes：#2，Real-time（）;#8 ()、CamVid：#2，Mean IoU 68.7%;ECCV 2018研究机构 : 多谱信息处理技术国家级重点实验室、华中科技大学自动化学院、北大、旷视论文 : BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.",
+                "homepage": null,
+                "id": 165027131,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2020-03-11T09:55:12Z",
+                "open_issues": 41,
+                "owner": "yu-changqian",
+                "repo": "TorchSeg",
+                "stars": 1409,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -726,7 +726,7 @@
                 "open_issues": 5,
                 "owner": "marsauto",
                 "repo": "europilot",
-                "stars": 1511,
+                "stars": 1512,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -836,7 +836,7 @@
                 "open_issues": 780,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18459,
+                "stars": 18464,
                 "topics": [
                   "ai",
                   "airsim",
@@ -875,7 +875,7 @@
                 "open_issues": 1198,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14370,
+                "stars": 14375,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -935,7 +935,7 @@
                 "open_issues": 628,
                 "owner": "lgsvl",
                 "repo": "simulator",
-                "stars": 2455,
+                "stars": 2456,
                 "topics": [
                   "3d",
                   "airsim",
@@ -1018,11 +1018,11 @@
                 "id": 74627617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-08T04:55:28Z",
-                "open_issues": 147,
+                "last_commit": "2026-09-09T06:34:37Z",
+                "open_issues": 150,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63598,
+                "stars": 63613,
                 "topics": [
                   "advanced-driver-assistance-systems",
                   "driver-assistance-systems",
@@ -1043,8 +1043,8 @@
                 "id": 41331761,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T07:06:21Z",
-                "open_issues": 71,
+                "last_commit": "2026-09-08T19:24:37Z",
+                "open_issues": 70,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
                 "stars": 12050,
@@ -1225,7 +1225,7 @@
             "open_issues": 13,
             "owner": "kevinhughes27",
             "repo": "TensorKart",
-            "stars": 1575,
+            "stars": 1574,
             "topics": [
               "machine-learning",
               "tensorflow"
@@ -1266,7 +1266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:14:48.448Z",
+    "last_updated": "2026-09-09T08:18:02.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "无人驾驶的资源列表中文版",
