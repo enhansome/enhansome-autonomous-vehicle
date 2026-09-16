@@ -21,7 +21,7 @@
                 "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74338,
+                "stars": 74346,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -42,7 +42,7 @@
                 "open_issues": 91,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39555,
+                "stars": 39556,
                 "topics": [
                   "deep-learning"
                 ]
@@ -72,7 +72,7 @@
                 "open_issues": 40,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 7111,
+                "stars": 7160,
                 "topics": [
                   "robotics"
                 ]
@@ -176,7 +176,7 @@
             "open_issues": 33,
             "owner": "nutonomy",
             "repo": "nuscenes-devkit",
-            "stars": 2804,
+            "stars": 2805,
             "topics": []
           },
           "first_seen": "2026-08-28T15:33:30.949Z"
@@ -469,7 +469,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659,
+                "stars": 77658,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -809,7 +809,7 @@
                 "open_issues": 1047,
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26827,
+                "stars": 26826,
                 "topics": [
                   "apollo",
                   "autonomous-driving",
@@ -832,11 +832,11 @@
                 "id": 81887991,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-06-30T19:34:07Z",
+                "last_commit": "2026-09-15T16:17:06Z",
                 "open_issues": 780,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18479,
+                "stars": 18481,
                 "topics": [
                   "ai",
                   "airsim",
@@ -871,11 +871,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-14T18:37:57Z",
-                "open_issues": 1199,
+                "last_commit": "2026-09-15T20:03:27Z",
+                "open_issues": 1202,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14401,
+                "stars": 14404,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -935,7 +935,7 @@
                 "open_issues": 628,
                 "owner": "lgsvl",
                 "repo": "simulator",
-                "stars": 2456,
+                "stars": 2457,
                 "topics": [
                   "3d",
                   "airsim",
@@ -1018,11 +1018,11 @@
                 "id": 74627617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T06:07:28Z",
-                "open_issues": 134,
+                "last_commit": "2026-09-16T06:30:52Z",
+                "open_issues": 139,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63657,
+                "stars": 63660,
                 "topics": [
                   "advanced-driver-assistance-systems",
                   "driver-assistance-systems",
@@ -1043,7 +1043,7 @@
                 "id": 41331761,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T19:17:32Z",
+                "last_commit": "2026-09-16T00:54:55Z",
                 "open_issues": 69,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
@@ -1266,7 +1266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:51:53.095Z",
+    "last_updated": "2026-09-16T08:45:32.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "无人驾驶的资源列表中文版",
