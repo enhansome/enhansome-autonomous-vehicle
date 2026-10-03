@@ -1,6 +1,6 @@
 # Awesome Autonomous Vehicles: with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,863 | 🐛 106 | 📅 2026-09-02
 精选无人驾驶资源列表，修改自[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) ⭐ 2,395 | 🐛 4 | 📅 2024-03-15 :fire:.
 
 > 除此之外，将继续跟随最新资源
@@ -28,8 +28,8 @@
 
 ### 人工智能|Artificial Intelligence
 
-* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,510 | 🐛 22 | 🌐 Python | 📅 2026-09-30 :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
-* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,566 | 🐛 93 | 🌐 Python | 📅 2022-11-27 :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
+* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,514 | 🐛 22 | 🌐 Python | 📅 2026-09-30 :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
+* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,567 | 🐛 93 | 🌐 Python | 📅 2022-11-27 :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
 * [Web: Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum)  - `深度学习课程`旨在成为每个有兴趣认真学习该领域的人的起点。
 
 ### 机器人学|Robotics
@@ -339,9 +339,9 @@
 
 ### 仿真平台
 
-* [百度 Apollo|开源](https://github.com/ApolloAuto/apollo) ⭐ 26,849 | 🐛 1,047 | 🌐 C++ | 📅 2026-04-16 - 帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
+* [百度 Apollo|开源](https://github.com/ApolloAuto/apollo) ⭐ 26,850 | 🐛 1,047 | 🌐 C++ | 📅 2026-04-16 - 帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
 * [微软 Airsim|开源](https://github.com/Microsoft/AirSim) ⭐ 18,531 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 - 作为人工智能研究的平台，以实验自动驾驶汽车的深度学习，计算机视觉和强化学习算法。
-* [英特尔Carla|开源](https://github.com/carla-simulator/carla) ⭐ 14,453 | 🐛 1,192 | 🌐 C++ | 📅 2026-10-03  - 用于城市自动驾驶系统的开发、训练和验证的开源模拟器，支持多种传感模式和环境条件的灵活配置
+* [英特尔Carla|开源](https://github.com/carla-simulator/carla) ⭐ 14,452 | 🐛 1,192 | 🌐 C++ | 📅 2026-10-03  - 用于城市自动驾驶系统的开发、训练和验证的开源模拟器，支持多种传感模式和环境条件的灵活配置
 * [优达 self-driving car|开源](https://github.com/udacity/self-driving-car) ⚠️ Archived -用于纳米课程学习
 * [LG LGSVL|开源](https://github.com/lgsvl/simulator) ⭐ 2,459 | 🐛 628 | 🌐 C# | 📅 2023-04-04 - 帮助开发者集中测试无人驾驶算法，目前平台已经集成了Duckietown, Autoware软件和百度Apollo平台。
 * [BARK](https://github.com/bark-simulator/bark) ⭐ 308 | 🐛 16 | 🌐 C++ | 📅 2024-02-06 - 用于自动驾驶行为规划算法的开发、模拟和基准测试的开源框架
@@ -350,8 +350,8 @@
 
 ### 软件
 
-* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot) ⭐ 63,796 | 🐛 138 | 🌐 Python | 📅 2026-10-03  - 开源驱动代理。
-* [Autoware|开源](https://github.com/CPFL/Autoware) ⭐ 12,137 | 🐛 72 | 🌐 Dockerfile | 📅 2026-09-29  - 用于城市自动驾驶的集成开源软件。
+* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot) ⭐ 63,798 | 🐛 138 | 🌐 Python | 📅 2026-10-03  - 开源驱动代理。
+* [Autoware|开源](https://github.com/CPFL/Autoware) ⭐ 12,138 | 🐛 72 | 🌐 Dockerfile | 📅 2026-09-29  - 用于城市自动驾驶的集成开源软件。
 
 ### 可视化工具
 

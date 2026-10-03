@@ -21,7 +21,7 @@
                 "open_issues": 22,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74510,
+                "stars": 74514,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -42,7 +42,7 @@
                 "open_issues": 93,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39566,
+                "stars": 39567,
                 "topics": [
                   "deep-learning"
                 ]
@@ -809,7 +809,7 @@
                 "open_issues": 1047,
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26849,
+                "stars": 26850,
                 "topics": [
                   "apollo",
                   "autonomous-driving",
@@ -875,7 +875,7 @@
                 "open_issues": 1192,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14453,
+                "stars": 14452,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1018,11 +1018,11 @@
                 "id": 74627617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-03T01:02:44Z",
+                "last_commit": "2026-10-03T09:11:36Z",
                 "open_issues": 138,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63796,
+                "stars": 63798,
                 "topics": [
                   "advanced-driver-assistance-systems",
                   "driver-assistance-systems",
@@ -1047,7 +1047,7 @@
                 "open_issues": 72,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12137,
+                "stars": 12138,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -1266,7 +1266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:33:25.961Z",
+    "last_updated": "2026-10-03T09:20:36.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "无人驾驶的资源列表中文版",
