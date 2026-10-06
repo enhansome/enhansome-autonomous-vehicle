@@ -871,7 +871,7 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-06T09:54:32Z",
+                "last_commit": "2026-10-06T10:54:39Z",
                 "open_issues": 1196,
                 "owner": "carla-simulator",
                 "repo": "carla",
@@ -1266,7 +1266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:24:21.232Z",
+    "last_updated": "2026-10-06T10:57:56.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "无人驾驶的资源列表中文版",
