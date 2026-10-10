@@ -1,7 +1,7 @@
 # Awesome Autonomous Vehicles: with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,555 | 🐛 106 | 📅 2026-09-02
-精选无人驾驶资源列表，修改自[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) ⭐ 2,395 | 🐛 4 | 📅 2024-03-15 :fire:.
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,981 | 🐛 106 | 📅 2026-09-02
+精选无人驾驶资源列表，修改自[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) ⭐ 2,396 | 🐛 4 | 📅 2024-03-15 :fire:.
 
 > 除此之外，将继续跟随最新资源
 
@@ -28,18 +28,18 @@
 
 ### 人工智能|Artificial Intelligence
 
-* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,553 | 🐛 23 | 🌐 Python | 📅 2026-10-07 :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
-* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,568 | 🐛 93 | 🌐 Python | 📅 2022-11-27 :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
+* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,562 | 🐛 23 | 🌐 Python | 📅 2026-10-09 :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
+* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,569 | 🐛 93 | 🌐 Python | 📅 2022-11-27 :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
 * [Web: Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum)  - `深度学习课程`旨在成为每个有兴趣认真学习该领域的人的起点。
 
 ### 机器人学|Robotics
 
-* [GitHub: Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 7,226 | 🐛 44 | 📅 2024-09-22 :star:1.19K - 由kiloreux维护的机器人技术的各种书籍，课程和其他资源的列表。
+* [GitHub: Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 7,228 | 🐛 44 | 📅 2024-09-22 :star:1.19K - 由kiloreux维护的机器人技术的各种书籍，课程和其他资源的列表。
 
 ### 计算机视觉|Computer Vision
 
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,587 | 🐛 97 | 📅 2024-05-17 :star: 9.7K (4年前更新)- 计算机视觉资源精选清单
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,189 | 🐛 48 | 📅 2023-08-15 :star:7.9K(2年前更新) - 计算机视觉深度学习资源的精选清单
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,585 | 🐛 97 | 📅 2024-05-17 :star: 9.7K (4年前更新)- 计算机视觉资源精选清单
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,187 | 🐛 48 | 📅 2023-08-15 :star:7.9K(2年前更新) - 计算机视觉深度学习资源的精选清单
 
 ## 课程
 
@@ -193,7 +193,7 @@
 ## 数据集
 
 * [Udacity](https://github.com/udacity/self-driving-car/tree/master/datasets) ⚠️ Archived - 为[Udacity Challenges](https://www.udacity.com/self-driving-car)发布的Udacity数据集。 包含ROSBAG训练数据。 （大约80 GB）。
-* [nuScenes](https://www.nuscenes.org/) - 安波福于2019年3月公开了其数据集，并在[GitHub](https://github.com/nutonomy/nuscenes-devkit) ⭐ 2,813 | 🐛 34 | 🌐 Python | 📅 2026-08-06公开教程。数据集拥有从波士顿和新加坡收集的1000个“场景”的信息，包含每个城市环境中都有的最复杂的一些驾驶场景。该数据集由140万张图像、39万次激光雷达扫描和140万个3D人工注释边界框组成，是迄今为止公布的最大的多模态3D AV数据集。
+* [nuScenes](https://www.nuscenes.org/) - 安波福于2019年3月公开了其数据集，并在[GitHub](https://github.com/nutonomy/nuscenes-devkit) ⭐ 2,812 | 🐛 34 | 🌐 Python | 📅 2026-08-06公开教程。数据集拥有从波士顿和新加坡收集的1000个“场景”的信息，包含每个城市环境中都有的最复杂的一些驾驶场景。该数据集由140万张图像、39万次激光雷达扫描和140万个3D人工注释边界框组成，是迄今为止公布的最大的多模态3D AV数据集。
 * [DeepTesla](https://selfdrivingcars.mit.edu/deeptesla/) - 主要包括tesla在两种不同驾驶模式（human driving和autopilot）下的前置相机录制的视频和车辆的转向控制信号。数据可以从这里下载:[百度云](https://pan.baidu.com/s/1c2J2IFA#list/path=%2F)。可以参考此[GitHub](https://github.com/CJHMPower/deep-tesla) ⭐ 9 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2017-06-01
 * [H3D - HRI-US](https://usa.honda-ri.com/hdd/introduction/h3d) - 本田研究所于2019年3月发布其无人驾驶方向数据集，相关介绍于[arXiv:1903.01568](https://arxiv.org/abs/1903.01568)介绍。本数据集使用3D LiDAR扫描仪收集的大型全环绕3D多目标检测和跟踪数据集。 其包含160个拥挤且高度互动的交通场景，在27,721帧中共有100万个标记实例。凭借独特的数据集大小，丰富的注释和复杂的场景，H3D聚集在一起，以激发对全环绕3D多目标检测和跟踪的研究。
 * \[ApolloCar3D] - 该数据集包含5,277个驾驶图像和超过60K的汽车实例，其中每辆汽车都配备了具有绝对模型尺寸和语义标记关键点的行业级3D CAD模型。该数据集比PASCAL3D +和KITTI（现有技术水平）大20倍以上。
@@ -246,11 +246,11 @@
 
 ### 物体检测|Object Detection
 
-* `PointNet`[charlesq34/pointnet](https://github.com/charlesq34/pointnet) ⭐ 5,483 | 🐛 186 | 🌐 Python | 📅 2023-11-30-
+* `PointNet`[charlesq34/pointnet](https://github.com/charlesq34/pointnet) ⭐ 5,482 | 🐛 186 | 🌐 Python | 📅 2023-11-30-
   `SOTA（Object Localization & 3D Object Detection）` :Cars、Cyclists、Pedestrian\
   研究机构 : 斯坦福大学、Nuro公司、加州大学圣地亚哥分校\
   论文 : [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/abs/1711.08488)
-* `VoxelNet`[charlesq34/pointnet](https://github.com/charlesq34/pointnet) ⭐ 5,483 | 🐛 186 | 🌐 Python | 📅 2023-11-30 -
+* `VoxelNet`[charlesq34/pointnet](https://github.com/charlesq34/pointnet) ⭐ 5,482 | 🐛 186 | 🌐 Python | 📅 2023-11-30 -
   `SOTA（Object Localization & 3D Object Detection）`:Cars、Cyclists、Pedestrian\
   研究机构 : 苹果公司\
   论文 : [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396)
@@ -261,7 +261,7 @@
   `KITTI for 3D Object Detection (Cars)` : #2,Cars-Easy(AP:84.32%); #1,Cars-Moderate(AP:75.42%); #1,Cars-Hard(AP:67.86%)\
   研究机构 : 香港中文大学\
   论文 : [PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud](https://arxiv.org/abs/1812.04244)
-* `PointPillars` [traveller59/second.pytorch](https://github.com/traveller59/second.pytorch) ⭐ 1,778 | 🐛 300 | 🌐 Python | 📅 2022-10-14 -`SOTA for Birds Eye View Object Detection on KITTI Cyclists Moderate`\
+* `PointPillars` [traveller59/second.pytorch](https://github.com/traveller59/second.pytorch) ⭐ 1,777 | 🐛 300 | 🌐 Python | 📅 2022-10-14 -`SOTA for Birds Eye View Object Detection on KITTI Cyclists Moderate`\
   研究机构 : nuTonomy（安波福下的公司）\
   论文 : [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784),
 * [kujason/avod](https://github.com/kujason/avod) ⭐ 959 | 🐛 37 | 🌐 Python | 📅 2026-02-05 -`KITTI 3D Object Detection for cars`#2 Cars-Hard(AP:66.38%)\
@@ -283,7 +283,7 @@
 
 ### 分割|Segmentation
 
-* `PSPNet`[tensorflow/models](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,652 | 🐛 1,270 | 🌐 Python | 📅 2026-10-07和[hszhao/PSPNet](https://github.com/hszhao/PSPNet) ⭐ 1,662 | 🐛 78 | 🌐 C++ | 📅 2022-04-15 - `SOTA in (Semantic Segmentation & Real-Time Semantic Segmentation)`，[more detail](https://paperswithcode.com/paper/pyramid-scene-parsing-network),`CVPR 2017`\
+* `PSPNet`[tensorflow/models](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,649 | 🐛 1,271 | 🌐 Python | 📅 2026-10-07和[hszhao/PSPNet](https://github.com/hszhao/PSPNet) ⭐ 1,663 | 🐛 78 | 🌐 C++ | 📅 2022-04-15 - `SOTA in (Semantic Segmentation & Real-Time Semantic Segmentation)`，[more detail](https://paperswithcode.com/paper/pyramid-scene-parsing-network),`CVPR 2017`\
   研究机构 : 香港中文大学、商汤\
   论文 : [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105)
 * [bermanmaxim/LovaszSoftmax](https://github.com/bermanmaxim/LovaszSoftmax) ⭐ 1,409 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2024-04-12 - Cityscapes:#1 for `Real-Time（76.9 fps）`、#16 for Mean IoU(63.06%),`CVPR 2018`\
@@ -339,25 +339,25 @@
 
 ### 仿真平台
 
-* [百度 Apollo|开源](https://github.com/ApolloAuto/apollo) ⭐ 26,855 | 🐛 1,047 | 🌐 C++ | 📅 2026-04-16 - 帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
+* [百度 Apollo|开源](https://github.com/ApolloAuto/apollo) ⭐ 26,852 | 🐛 1,047 | 🌐 C++ | 📅 2026-04-16 - 帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
 * [微软 Airsim|开源](https://github.com/Microsoft/AirSim) ⭐ 18,542 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 - 作为人工智能研究的平台，以实验自动驾驶汽车的深度学习，计算机视觉和强化学习算法。
-* [英特尔Carla|开源](https://github.com/carla-simulator/carla) ⭐ 14,466 | 🐛 1,193 | 🌐 C++ | 📅 2026-10-09  - 用于城市自动驾驶系统的开发、训练和验证的开源模拟器，支持多种传感模式和环境条件的灵活配置
+* [英特尔Carla|开源](https://github.com/carla-simulator/carla) ⭐ 14,471 | 🐛 1,200 | 🌐 C++ | 📅 2026-10-10  - 用于城市自动驾驶系统的开发、训练和验证的开源模拟器，支持多种传感模式和环境条件的灵活配置
 * [优达 self-driving car|开源](https://github.com/udacity/self-driving-car) ⚠️ Archived -用于纳米课程学习
-* [LG LGSVL|开源](https://github.com/lgsvl/simulator) ⭐ 2,459 | 🐛 628 | 🌐 C# | 📅 2023-04-04 - 帮助开发者集中测试无人驾驶算法，目前平台已经集成了Duckietown, Autoware软件和百度Apollo平台。
+* [LG LGSVL|开源](https://github.com/lgsvl/simulator) ⭐ 2,460 | 🐛 628 | 🌐 C# | 📅 2023-04-04 - 帮助开发者集中测试无人驾驶算法，目前平台已经集成了Duckietown, Autoware软件和百度Apollo平台。
 * [BARK](https://github.com/bark-simulator/bark) ⭐ 308 | 🐛 16 | 🌐 C++ | 📅 2024-02-06 - 用于自动驾驶行为规划算法的开发、模拟和基准测试的开源框架
 * [英伟达 Drive Constellation](https://www.nvidia.cn/self-driving-cars/drive-constellation/) - 采用逼真的模拟技术，以更安全、更易扩展、
   更经济有效的方式推动自动驾驶汽车上路行驶的进程。它利用两台不同服务器的计算能力来提供革命性的云计算平台，从而实现数十亿英里的自动驾驶汽车测试。
 
 ### 软件
 
-* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot) ⭐ 63,849 | 🐛 129 | 🌐 Python | 📅 2026-10-09  - 开源驱动代理。
-* [Autoware|开源](https://github.com/CPFL/Autoware) ⭐ 12,146 | 🐛 73 | 🌐 Dockerfile | 📅 2026-09-29  - 用于城市自动驾驶的集成开源软件。
+* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot) ⭐ 63,854 | 🐛 130 | 🌐 Python | 📅 2026-10-10  - 开源驱动代理。
+* [Autoware|开源](https://github.com/CPFL/Autoware) ⭐ 12,147 | 🐛 73 | 🌐 Dockerfile | 📅 2026-09-29  - 用于城市自动驾驶的集成开源软件。
 
 ### 可视化工具
 
-* [通用Cruise WorldView|开源](https://github.com/cruise-automation/webviz) ⭐ 2,345 | 🐛 134 | 🌐 JavaScript | 📅 2022-12-17 -开放可视化组件便于开发者进行无人驾驶数据可视化处理。
-* [优步ATG AVS|开源](https://avs.auto/#/) - 其主要包括两个repo: [xviz](https://github.com/uber/xviz) ⭐ 1,075 | 🐛 171 | 🌐 JavaScript | 📅 2024-07-05处理数据
-  和 [streetscape.gl](https://github.com/uber/streetscape.gl) ⭐ 996 | 🐛 114 | 🌐 JavaScript | 📅 2024-07-04进行场景渲染。
+* [通用Cruise WorldView|开源](https://github.com/cruise-automation/webviz) ⭐ 2,346 | 🐛 134 | 🌐 JavaScript | 📅 2022-12-17 -开放可视化组件便于开发者进行无人驾驶数据可视化处理。
+* [优步ATG AVS|开源](https://avs.auto/#/) - 其主要包括两个repo: [xviz](https://github.com/uber/xviz) ⭐ 1,076 | 🐛 171 | 🌐 JavaScript | 📅 2024-07-05处理数据
+  和 [streetscape.gl](https://github.com/uber/streetscape.gl) ⭐ 997 | 🐛 114 | 🌐 JavaScript | 📅 2024-07-04进行场景渲染。
 
 ### 其他
 
@@ -370,7 +370,7 @@
 ## 小游戏
 
 * [NeuroJS](https://github.com/janhuenermann/neurojs) ⭐ 4,367 | 🐛 6 | 🌐 JavaScript | 📅 2023-10-10  - javascript深度学习和强化学习库。 一个样本自动驾驶汽车实施。
-* [DeepTraffic](https://github.com/lexfridman/deeptraffic) ⭐ 1,793 | 🐛 9 | 🌐 JavaScript | 📅 2023-08-01 - 作为MIT深度学习课程的一部分, 作为认知深度强化学习小游戏。仅需通过浏览器设置参数就可以进行训练和评估。
+* [DeepTraffic](https://github.com/lexfridman/deeptraffic) ⭐ 1,794 | 🐛 9 | 🌐 JavaScript | 📅 2023-08-01 - 作为MIT深度学习课程的一部分, 作为认知深度强化学习小游戏。仅需通过浏览器设置参数就可以进行训练和评估。
 * [TensorKart](https://github.com/kevinhughes27/TensorKart) ⭐ 1,574 | 🐛 13 | 🌐 Python | 📅 2026-08-03  - 使用TensorFlow搭建的自驾驾驶MarioKart。
 * [Metacar](https://github.com/thibo73800/metacar) ⭐ 377 | 🐛 10 | 🌐 TypeScript | 📅 2020-05-14 - 仅需通过浏览器就可以进行训练，为自动驾驶汽车提供强化学习环境。
 
@@ -453,4 +453,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
