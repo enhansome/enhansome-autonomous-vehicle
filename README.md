@@ -1,6 +1,6 @@
 # Awesome Autonomous Vehicles: with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,827 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,342 | 🐛 105 | 📅 2026-09-02
 精选无人驾驶资源列表，修改自[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) ⭐ 2,397 | 🐛 4 | 📅 2024-03-15 :fire:.
 
 > 除此之外，将继续跟随最新资源
@@ -28,18 +28,18 @@
 
 ### 人工智能|Artificial Intelligence
 
-* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,646 | 🐛 24 | 🌐 Python | 📅 2026-10-22 :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
-* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,591 | 🐛 93 | 🌐 Python | 📅 2022-11-27 :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
+* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,654 | 🐛 24 | 🌐 Python | 📅 2026-10-22 :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
+* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,593 | 🐛 93 | 🌐 Python | 📅 2022-11-27 :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
 * [Web: Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum)  - `深度学习课程`旨在成为每个有兴趣认真学习该领域的人的起点。
 
 ### 机器人学|Robotics
 
-* [GitHub: Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 7,256 | 🐛 48 | 📅 2024-09-22 :star:1.19K - 由kiloreux维护的机器人技术的各种书籍，课程和其他资源的列表。
+* [GitHub: Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 7,257 | 🐛 48 | 📅 2024-09-22 :star:1.19K - 由kiloreux维护的机器人技术的各种书籍，课程和其他资源的列表。
 
 ### 计算机视觉|Computer Vision
 
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,620 | 🐛 100 | 📅 2024-05-17 :star: 9.7K (4年前更新)- 计算机视觉资源精选清单
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,191 | 🐛 48 | 📅 2023-08-15 :star:7.9K(2年前更新) - 计算机视觉深度学习资源的精选清单
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,619 | 🐛 100 | 📅 2024-05-17 :star: 9.7K (4年前更新)- 计算机视觉资源精选清单
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,192 | 🐛 48 | 📅 2023-08-15 :star:7.9K(2年前更新) - 计算机视觉深度学习资源的精选清单
 
 ## 课程
 
@@ -246,11 +246,11 @@
 
 ### 物体检测|Object Detection
 
-* `PointNet`[charlesq34/pointnet](https://github.com/charlesq34/pointnet) ⭐ 5,487 | 🐛 186 | 🌐 Python | 📅 2023-11-30-
+* `PointNet`[charlesq34/pointnet](https://github.com/charlesq34/pointnet) ⭐ 5,488 | 🐛 186 | 🌐 Python | 📅 2023-11-30-
   `SOTA（Object Localization & 3D Object Detection）` :Cars、Cyclists、Pedestrian\
   研究机构 : 斯坦福大学、Nuro公司、加州大学圣地亚哥分校\
   论文 : [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/abs/1711.08488)
-* `VoxelNet`[charlesq34/pointnet](https://github.com/charlesq34/pointnet) ⭐ 5,487 | 🐛 186 | 🌐 Python | 📅 2023-11-30 -
+* `VoxelNet`[charlesq34/pointnet](https://github.com/charlesq34/pointnet) ⭐ 5,488 | 🐛 186 | 🌐 Python | 📅 2023-11-30 -
   `SOTA（Object Localization & 3D Object Detection）`:Cars、Cyclists、Pedestrian\
   研究机构 : 苹果公司\
   论文 : [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396)
@@ -316,7 +316,7 @@
 
 ### 传感器融合|Sensor Fusion
 
-* [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) ⭐ 6,064 | 🐛 293 | 🌐 C++ | 📅 2024-08-14 - SOTA，IROS 2018,IMU和（单目）摄像头融合的校正方法，用来校准IMU和相机之间的时间偏移。\
+* [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) ⭐ 6,065 | 🐛 293 | 🌐 C++ | 📅 2024-08-14 - SOTA，IROS 2018,IMU和（单目）摄像头融合的校正方法，用来校准IMU和相机之间的时间偏移。\
   研究机构 : [港科大Aerial Robotics Group](http://uav.ust.hk/)\
   论文 : [Online Temporal Calibration for Monocular Visual-Inertial Systems](https://arxiv.org/abs/1808.00692),
 
@@ -340,8 +340,8 @@
 ### 仿真平台
 
 * [百度 Apollo|开源](https://github.com/ApolloAuto/apollo) ⭐ 26,875 | 🐛 1,050 | 🌐 C++ | 📅 2026-04-16 - 帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
-* [微软 Airsim|开源](https://github.com/Microsoft/AirSim) ⭐ 18,573 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 - 作为人工智能研究的平台，以实验自动驾驶汽车的深度学习，计算机视觉和强化学习算法。
-* [英特尔Carla|开源](https://github.com/carla-simulator/carla) ⭐ 14,531 | 🐛 1,220 | 🌐 C++ | 📅 2026-10-23  - 用于城市自动驾驶系统的开发、训练和验证的开源模拟器，支持多种传感模式和环境条件的灵活配置
+* [微软 Airsim|开源](https://github.com/Microsoft/AirSim) ⭐ 18,577 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 - 作为人工智能研究的平台，以实验自动驾驶汽车的深度学习，计算机视觉和强化学习算法。
+* [英特尔Carla|开源](https://github.com/carla-simulator/carla) ⭐ 14,534 | 🐛 1,247 | 🌐 C++ | 📅 2026-10-24  - 用于城市自动驾驶系统的开发、训练和验证的开源模拟器，支持多种传感模式和环境条件的灵活配置
 * [优达 self-driving car|开源](https://github.com/udacity/self-driving-car) ⚠️ Archived -用于纳米课程学习
 * [LG LGSVL|开源](https://github.com/lgsvl/simulator) ⭐ 2,460 | 🐛 628 | 🌐 C# | 📅 2023-04-04 - 帮助开发者集中测试无人驾驶算法，目前平台已经集成了Duckietown, Autoware软件和百度Apollo平台。
 * [BARK](https://github.com/bark-simulator/bark) ⭐ 308 | 🐛 16 | 🌐 C++ | 📅 2024-02-06 - 用于自动驾驶行为规划算法的开发、模拟和基准测试的开源框架
@@ -350,14 +350,14 @@
 
 ### 软件
 
-* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot) ⭐ 63,986 | 🐛 131 | 🌐 Python | 📅 2026-10-24  - 开源驱动代理。
-* [Autoware|开源](https://github.com/CPFL/Autoware) ⭐ 12,177 | 🐛 71 | 🌐 Dockerfile | 📅 2026-10-21  - 用于城市自动驾驶的集成开源软件。
+* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot) ⭐ 63,988 | 🐛 130 | 🌐 Python | 📅 2026-10-25  - 开源驱动代理。
+* [Autoware|开源](https://github.com/CPFL/Autoware) ⭐ 12,179 | 🐛 71 | 🌐 Dockerfile | 📅 2026-10-21  - 用于城市自动驾驶的集成开源软件。
 
 ### 可视化工具
 
 * [通用Cruise WorldView|开源](https://github.com/cruise-automation/webviz) ⭐ 2,344 | 🐛 134 | 🌐 JavaScript | 📅 2022-12-17 -开放可视化组件便于开发者进行无人驾驶数据可视化处理。
 * [优步ATG AVS|开源](https://avs.auto/#/) - 其主要包括两个repo: [xviz](https://github.com/uber/xviz) ⭐ 1,078 | 🐛 171 | 🌐 JavaScript | 📅 2024-07-05处理数据
-  和 [streetscape.gl](https://github.com/uber/streetscape.gl) ⭐ 996 | 🐛 114 | 🌐 JavaScript | 📅 2024-07-04进行场景渲染。
+  和 [streetscape.gl](https://github.com/uber/streetscape.gl) ⭐ 995 | 🐛 114 | 🌐 JavaScript | 📅 2024-07-04进行场景渲染。
 
 ### 其他
 
@@ -453,4 +453,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
