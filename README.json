@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74783,
+                "stars": 74785,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -42,7 +42,7 @@
                 "open_issues": 93,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39602,
+                "stars": 39606,
                 "topics": [
                   "deep-learning"
                 ]
@@ -69,7 +69,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2024-09-22T20:24:10Z",
-                "open_issues": 49,
+                "open_issues": 48,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
                 "stars": 7287,
@@ -102,7 +102,7 @@
                 "open_issues": 100,
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23632,
+                "stars": 23634,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -123,7 +123,7 @@
                 "open_issues": 47,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11192,
+                "stars": 11191,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -155,7 +155,7 @@
             "open_issues": 1,
             "owner": "udacity",
             "repo": "self-driving-car",
-            "stars": 6318,
+            "stars": 6317,
             "topics": []
           },
           "first_seen": "2026-08-28T15:33:30.949Z"
@@ -226,7 +226,7 @@
                 "open_issues": 186,
                 "owner": "charlesq34",
                 "repo": "pointnet",
-                "stars": 5499,
+                "stars": 5500,
                 "topics": [
                   "classification",
                   "geometry-processing",
@@ -254,7 +254,7 @@
                 "open_issues": 186,
                 "owner": "charlesq34",
                 "repo": "pointnet",
-                "stars": 5499,
+                "stars": 5500,
                 "topics": [
                   "classification",
                   "geometry-processing",
@@ -466,37 +466,11 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-02T23:22:42Z",
-                "open_issues": 1276,
+                "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77635,
+                "stars": 77636,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T15:33:30.949Z"
-            },
-            {
-              "node_type": "item",
-              "title": "bermanmaxim/LovaszSoftmax",
-              "description": "Cityscapes:#1 for 、#16 for Mean IoU(63.06%),研究机构 : 鲁汶大学论文 : The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks,",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for the Lovász-Softmax loss (CVPR 2018)",
-                "homepage": "http://bmax.im/LovaszSoftmax",
-                "id": 122314187,
-                "language": "Jupyter Notebook",
-                "license": "MIT",
-                "last_commit": "2024-04-12T21:01:35Z",
-                "open_issues": 18,
-                "owner": "bermanmaxim",
-                "repo": "LovaszSoftmax",
-                "stars": 1410,
-                "topics": [
-                  "image-segmentation",
-                  "loss-functions",
-                  "neural-networks",
-                  "pytorch"
-                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -518,6 +492,32 @@
                 "repo": "TorchSeg",
                 "stars": 1409,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T15:33:30.949Z"
+            },
+            {
+              "node_type": "item",
+              "title": "bermanmaxim/LovaszSoftmax",
+              "description": "Cityscapes:#1 for 、#16 for Mean IoU(63.06%),研究机构 : 鲁汶大学论文 : The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for the Lovász-Softmax loss (CVPR 2018)",
+                "homepage": "http://bmax.im/LovaszSoftmax",
+                "id": 122314187,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2024-04-12T21:01:35Z",
+                "open_issues": 18,
+                "owner": "bermanmaxim",
+                "repo": "LovaszSoftmax",
+                "stars": 1409,
+                "topics": [
+                  "image-segmentation",
+                  "loss-functions",
+                  "neural-networks",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
             },
@@ -694,7 +694,7 @@
                 "open_issues": 293,
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "VINS-Mono",
-                "stars": 6069,
+                "stars": 6070,
                 "topics": [
                   "state-estimation",
                   "vins",
@@ -836,7 +836,7 @@
                 "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18606,
+                "stars": 18605,
                 "topics": [
                   "ai",
                   "airsim",
@@ -871,11 +871,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-08T09:25:45Z",
-                "open_issues": 1232,
+                "last_commit": "2026-11-09T11:08:37Z",
+                "open_issues": 1225,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14576,
+                "stars": 14581,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -914,7 +914,7 @@
                 "open_issues": 1,
                 "owner": "udacity",
                 "repo": "self-driving-car",
-                "stars": 6318,
+                "stars": 6317,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -977,7 +977,7 @@
                 "open_issues": 16,
                 "owner": "bark-simulator",
                 "repo": "bark",
-                "stars": 309,
+                "stars": 310,
                 "topics": [
                   "artificial-intelligence",
                   "autonomous-driving",
@@ -1018,11 +1018,11 @@
                 "id": 74627617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T10:05:02Z",
-                "open_issues": 154,
+                "last_commit": "2026-11-09T09:06:54Z",
+                "open_issues": 159,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 64086,
+                "stars": 64094,
                 "topics": [
                   "advanced-driver-assistance-systems",
                   "driver-assistance-systems",
@@ -1043,11 +1043,11 @@
                 "id": 41331761,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T05:53:22Z",
-                "open_issues": 73,
+                "last_commit": "2026-11-09T08:26:11Z",
+                "open_issues": 71,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12226,
+                "stars": 12228,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -1266,7 +1266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T10:39:15.950Z",
+    "last_updated": "2026-11-09T11:56:02.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "无人驾驶的资源列表中文版",
@@ -1278,7 +1278,7 @@
       "open_issues": 1,
       "owner": "DeepTecher",
       "repo": "awesome-autonomous-vehicle",
-      "stars": 908,
+      "stars": 907,
       "topics": [
         "autonomous-vehicles",
         "awesome-list",
