@@ -1,6 +1,6 @@
 # Awesome Autonomous Vehicles: with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,259 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,771 | 🐛 104 | 📅 2026-09-02
 精选无人驾驶资源列表，修改自[takeitallsource/awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) ⭐ 2,399 | 🐛 4 | 📅 2024-03-15 :fire:.
 
 > 除此之外，将继续跟随最新资源
@@ -28,8 +28,8 @@
 
 ### 人工智能|Artificial Intelligence
 
-* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,843 | 🐛 34 | 🌐 Python | 📅 2026-11-12 :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
-* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,601 | 🐛 93 | 🌐 Python | 📅 2022-11-27 :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
+* [GitHub: Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,850 | 🐛 35 | 🌐 Python | 📅 2026-11-12 :star:38.8K - `机器学习`框架、库和软件的`精选列表`。 由Joseph Misiti.Joseph Misiti维护
+* [GitHub: Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,606 | 🐛 93 | 🌐 Python | 📅 2022-11-27 :star:22.2K - `深度学习论文阅读路线图`从大纲到细节构建，从最新到最先进，从通用到特定领域，重点关注从深度学习开始的SOTA技术。 由Flood Sung维护。
 * [Web: Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum)  - `深度学习课程`旨在成为每个有兴趣认真学习该领域的人的起点。
 
 ### 机器人学|Robotics
@@ -38,8 +38,8 @@
 
 ### 计算机视觉|Computer Vision
 
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,654 | 🐛 99 | 📅 2024-05-17 :star: 9.7K (4年前更新)- 计算机视觉资源精选清单
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,198 | 🐛 47 | 📅 2023-08-15 :star:7.9K(2年前更新) - 计算机视觉深度学习资源的精选清单
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,656 | 🐛 99 | 📅 2024-05-17 :star: 9.7K (4年前更新)- 计算机视觉资源精选清单
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,197 | 🐛 47 | 📅 2023-08-15 :star:7.9K(2年前更新) - 计算机视觉深度学习资源的精选清单
 
 ## 课程
 
@@ -257,11 +257,11 @@
 * `SimpleDet`[tusimple/simpledet](https://github.com/tusimple/simpledet) ⭐ 3,088 | 🐛 44 | 🌐 Python | 📅 2021-09-23 - `SOTA on consumer grade hardware at large scale`\
   研究机构 : 图森\
   论文 : [SimpleDet: A Simple and Versatile Distributed Framework for Object Detection and Instance Recognition](https://arxiv.org/abs/1903.05831)
-* `PointRCNN`[sshaoshuai/PointRCNN](https://github.com/sshaoshuai/PointRCNN) ⭐ 1,822 | 🐛 144 | 🌐 Python | 📅 2022-09-01 -
+* `PointRCNN`[sshaoshuai/PointRCNN](https://github.com/sshaoshuai/PointRCNN) ⭐ 1,821 | 🐛 144 | 🌐 Python | 📅 2022-09-01 -
   `KITTI for 3D Object Detection (Cars)` : #2,Cars-Easy(AP:84.32%); #1,Cars-Moderate(AP:75.42%); #1,Cars-Hard(AP:67.86%)\
   研究机构 : 香港中文大学\
   论文 : [PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud](https://arxiv.org/abs/1812.04244)
-* `PointPillars` [traveller59/second.pytorch](https://github.com/traveller59/second.pytorch) ⭐ 1,778 | 🐛 300 | 🌐 Python | 📅 2022-10-14 -`SOTA for Birds Eye View Object Detection on KITTI Cyclists Moderate`\
+* `PointPillars` [traveller59/second.pytorch](https://github.com/traveller59/second.pytorch) ⭐ 1,776 | 🐛 300 | 🌐 Python | 📅 2022-10-14 -`SOTA for Birds Eye View Object Detection on KITTI Cyclists Moderate`\
   研究机构 : nuTonomy（安波福下的公司）\
   论文 : [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784),
 * [kujason/avod](https://github.com/kujason/avod) ⭐ 961 | 🐛 37 | 🌐 Python | 📅 2026-02-05 -`KITTI 3D Object Detection for cars`#2 Cars-Hard(AP:66.38%)\
@@ -283,7 +283,7 @@
 
 ### 分割|Segmentation
 
-* `PSPNet`[tensorflow/models](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,627 | 🐛 1,274 | 🌐 Python | 📅 2026-11-16和[hszhao/PSPNet](https://github.com/hszhao/PSPNet) ⭐ 1,662 | 🐛 78 | 🌐 C++ | 📅 2022-04-15 - `SOTA in (Semantic Segmentation & Real-Time Semantic Segmentation)`，[more detail](https://paperswithcode.com/paper/pyramid-scene-parsing-network),`CVPR 2017`\
+* `PSPNet`[tensorflow/models](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,629 | 🐛 1,274 | 🌐 Python | 📅 2026-11-16和[hszhao/PSPNet](https://github.com/hszhao/PSPNet) ⭐ 1,662 | 🐛 78 | 🌐 C++ | 📅 2022-04-15 - `SOTA in (Semantic Segmentation & Real-Time Semantic Segmentation)`，[more detail](https://paperswithcode.com/paper/pyramid-scene-parsing-network),`CVPR 2017`\
   研究机构 : 香港中文大学、商汤\
   论文 : [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105)
 * [bermanmaxim/LovaszSoftmax](https://github.com/bermanmaxim/LovaszSoftmax) ⭐ 1,409 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2024-04-12 - Cityscapes:#1 for `Real-Time（76.9 fps）`、#16 for Mean IoU(63.06%),`CVPR 2018`\
@@ -316,7 +316,7 @@
 
 ### 传感器融合|Sensor Fusion
 
-* [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) ⭐ 6,074 | 🐛 293 | 🌐 C++ | 📅 2024-08-14 - SOTA，IROS 2018,IMU和（单目）摄像头融合的校正方法，用来校准IMU和相机之间的时间偏移。\
+* [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) ⭐ 6,073 | 🐛 293 | 🌐 C++ | 📅 2024-08-14 - SOTA，IROS 2018,IMU和（单目）摄像头融合的校正方法，用来校准IMU和相机之间的时间偏移。\
   研究机构 : [港科大Aerial Robotics Group](http://uav.ust.hk/)\
   论文 : [Online Temporal Calibration for Monocular Visual-Inertial Systems](https://arxiv.org/abs/1808.00692),
 
@@ -339,9 +339,9 @@
 
 ### 仿真平台
 
-* [百度 Apollo|开源](https://github.com/ApolloAuto/apollo) ⭐ 26,911 | 🐛 1,050 | 🌐 C++ | 📅 2026-04-16 - 帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
-* [微软 Airsim|开源](https://github.com/Microsoft/AirSim) ⭐ 18,616 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 - 作为人工智能研究的平台，以实验自动驾驶汽车的深度学习，计算机视觉和强化学习算法。
-* [英特尔Carla|开源](https://github.com/carla-simulator/carla) ⭐ 14,616 | 🐛 1,023 | 🌐 C++ | 📅 2026-11-17  - 用于城市自动驾驶系统的开发、训练和验证的开源模拟器，支持多种传感模式和环境条件的灵活配置
+* [百度 Apollo|开源](https://github.com/ApolloAuto/apollo) ⭐ 26,914 | 🐛 1,050 | 🌐 C++ | 📅 2026-04-16 - 帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
+* [微软 Airsim|开源](https://github.com/Microsoft/AirSim) ⭐ 18,618 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 - 作为人工智能研究的平台，以实验自动驾驶汽车的深度学习，计算机视觉和强化学习算法。
+* [英特尔Carla|开源](https://github.com/carla-simulator/carla) ⭐ 14,640 | 🐛 1,026 | 🌐 C++ | 📅 2026-11-18  - 用于城市自动驾驶系统的开发、训练和验证的开源模拟器，支持多种传感模式和环境条件的灵活配置
 * [优达 self-driving car|开源](https://github.com/udacity/self-driving-car) ⚠️ Archived -用于纳米课程学习
 * [LG LGSVL|开源](https://github.com/lgsvl/simulator) ⭐ 2,464 | 🐛 628 | 🌐 C# | 📅 2023-04-04 - 帮助开发者集中测试无人驾驶算法，目前平台已经集成了Duckietown, Autoware软件和百度Apollo平台。
 * [BARK](https://github.com/bark-simulator/bark) ⭐ 311 | 🐛 16 | 🌐 C++ | 📅 2024-02-06 - 用于自动驾驶行为规划算法的开发、模拟和基准测试的开源框架
@@ -350,8 +350,8 @@
 
 ### 软件
 
-* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot) ⭐ 64,154 | 🐛 129 | 🌐 Python | 📅 2026-11-17  - 开源驱动代理。
-* [Autoware|开源](https://github.com/CPFL/Autoware) ⭐ 12,256 | 🐛 73 | 🌐 Dockerfile | 📅 2026-11-12  - 用于城市自动驾驶的集成开源软件。
+* [Comma.ai Openpilot|开源](https://github.com/commaai/openpilot) ⭐ 64,167 | 🐛 129 | 🌐 Python | 📅 2026-11-18  - 开源驱动代理。
+* [Autoware|开源](https://github.com/CPFL/Autoware) ⭐ 12,260 | 🐛 73 | 🌐 Dockerfile | 📅 2026-11-12  - 用于城市自动驾驶的集成开源软件。
 
 ### 可视化工具
 
@@ -453,4 +453,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
