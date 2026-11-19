@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74850,
+                "stars": 74851,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -42,7 +42,7 @@
                 "open_issues": 93,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39606,
+                "stars": 39607,
                 "topics": [
                   "deep-learning"
                 ]
@@ -72,7 +72,7 @@
                 "open_issues": 54,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 7315,
+                "stars": 7316,
                 "topics": [
                   "robotics"
                 ]
@@ -102,7 +102,7 @@
                 "open_issues": 99,
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23656,
+                "stars": 23657,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:33:30.949Z"
@@ -694,7 +694,7 @@
                 "open_issues": 293,
                 "owner": "HKUST-Aerial-Robotics",
                 "repo": "VINS-Mono",
-                "stars": 6073,
+                "stars": 6075,
                 "topics": [
                   "state-estimation",
                   "vins",
@@ -809,7 +809,7 @@
                 "open_issues": 1050,
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26914,
+                "stars": 26913,
                 "topics": [
                   "apollo",
                   "autonomous-driving",
@@ -836,7 +836,7 @@
                 "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18618,
+                "stars": 18620,
                 "topics": [
                   "ai",
                   "airsim",
@@ -871,11 +871,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-18T11:59:06Z",
-                "open_issues": 1026,
+                "last_commit": "2026-11-19T11:37:45Z",
+                "open_issues": 1025,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14640,
+                "stars": 14649,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -935,7 +935,7 @@
                 "open_issues": 628,
                 "owner": "lgsvl",
                 "repo": "simulator",
-                "stars": 2464,
+                "stars": 2465,
                 "topics": [
                   "3d",
                   "airsim",
@@ -1018,11 +1018,11 @@
                 "id": 74627617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-18T11:13:37Z",
-                "open_issues": 129,
+                "last_commit": "2026-11-19T09:36:13Z",
+                "open_issues": 141,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 64167,
+                "stars": 64172,
                 "topics": [
                   "advanced-driver-assistance-systems",
                   "driver-assistance-systems",
@@ -1043,11 +1043,11 @@
                 "id": 41331761,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T14:11:10Z",
-                "open_issues": 73,
+                "last_commit": "2026-11-19T10:35:58Z",
+                "open_issues": 75,
                 "owner": "autowarefoundation",
                 "repo": "autoware",
-                "stars": 12260,
+                "stars": 12264,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -1225,7 +1225,7 @@
             "open_issues": 13,
             "owner": "kevinhughes27",
             "repo": "TensorKart",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "machine-learning",
               "tensorflow"
@@ -1266,7 +1266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T12:01:28.959Z",
+    "last_updated": "2026-11-19T11:58:01.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "无人驾驶的资源列表中文版",
